@@ -1,0 +1,1316 @@
+{
+    "a barbed harpoon head": {
+        "desc": "a barbed harpoon head",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a scroll of recall [2]": {
+        "desc": "a scroll of recall [2]",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a milky potion of see invisible [8]": {
+        "desc": "a milky potion of see invisible [8]",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "some beef jerky [2]": {
+        "desc": "some beef jerky [2]",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a large sack": {
+        "desc": "a large sack",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a milky potion of see invisible [5]": {
+        "desc": "a milky potion of see invisible [5]",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a rump roast [4]": {
+        "desc": "a rump roast [4]",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a crystal shard necklace..it glows dimly": {
+        "desc": "a crystal shard necklace..it glows dimly",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "some beef jerky [4]": {
+        "desc": "some beef jerky [4]",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a potion of refresh": {
+        "desc": "a potion of refresh",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a large first-aid kit": {
+        "desc": "a large first-aid kit",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a small wooden chest (invisible)": {
+        "desc": "a small wooden chest (invisible)",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a glowing scroll of recall..it glows dimly": {
+        "desc": "a glowing scroll of recall..it glows dimly",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a large hide waterskin": {
+        "desc": "a large hide waterskin",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a crimson dust covered chest": {
+        "desc": "a crimson dust covered chest",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a waterskin": {
+        "desc": "a waterskin",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a bronze shield [2]": {
+        "desc": "a bronze shield [2]",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a serrated draconian dagger..it glows blue": {
+        "desc": "a serrated draconian dagger..it glows blue",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a pale blue stone": {
+        "desc": "a pale blue stone",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a lucky bone charm..it glows blue..it glows dimly": {
+        "desc": "a lucky bone charm..it glows blue..it glows dimly",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a suit of icy adamantite banded mail..it glows dimly": {
+        "desc": "a suit of icy adamantite banded mail..it glows dimly",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a delicate crystal ball": {
+        "desc": "a delicate crystal ball",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a small mithril dagger..it hums softly": {
+        "desc": "a small mithril dagger..it hums softly",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a worn beltpouch": {
+        "desc": "a worn beltpouch",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a renegade's robe": {
+        "desc": "a renegade's robe",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a pair of black silk sleeves": {
+        "desc": "a pair of black silk sleeves",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a pair of soft black leather gloves": {
+        "desc": "a pair of soft black leather gloves",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a pair of purple silk boots..it hums softly": {
+        "desc": "a pair of purple silk boots..it hums softly",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "an obsidian crown..it glows dimly": {
+        "desc": "an obsidian crown..it glows dimly",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "the mottled robes of the archmagus..it glows dimly": {
+        "desc": "the mottled robes of the Archmagus..it glows dimly",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a weathered steel neckchain": {
+        "desc": "a weathered steel neckchain",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a dinosaur tooth necklace": {
+        "desc": "a dinosaur tooth necklace",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a small quartz ring..it glows dimly": {
+        "desc": "a small quartz ring..it glows dimly",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a glittering golden ring..it glows dimly": {
+        "desc": "a glittering golden ring..it glows dimly",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "the main road of the settlement. packed dirt of a light brown hue forms": {
+        "desc": "the main road of the settlement. Packed dirt of a light brown hue forms",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a heavy flaming battle axe..it glows blue..it glows dimly..it hums softly": {
+        "desc": "a heavy flaming battle axe..it glows blue..it glows dimly..it hums softly",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a flask of clear liquid..it glows blue": {
+        "desc": "a flask of clear liquid..it glows blue",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a scroll of recall..it glows blue [2]": {
+        "desc": "a scroll of recall..it glows blue [2]",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a yellow potion": {
+        "desc": "a yellow potion",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "the grey robes of the thorn..it glows blue..it hums softly": {
+        "desc": "the grey robes of the Thorn..it glows blue..it hums softly",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a leather belt pouch": {
+        "desc": "a leather belt pouch",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a small wooden chest": {
+        "desc": "a small wooden chest",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a bronze bottle": {
+        "desc": "a bronze bottle",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "the corpse of a solamnic gateguard gets a platinum shield of paladine": {
+        "desc": "the corpse of a solamnic gateguard gets a platinum shield of Paladine",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "the corpse of a solamnic gateguard gets a pair of silver engraved arm": {
+        "desc": "the corpse of a solamnic gateguard gets a pair of silver engraved arm",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "the corpse of a solamnic gateguard gets some brushed steel gauntlets": {
+        "desc": "the corpse of a solamnic gateguard gets some brushed steel gauntlets",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "the corpse of a solamnic gateguard gets a pair of barbed wire boots": {
+        "desc": "the corpse of a solamnic gateguard gets a pair of barbed wire boots",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "the corpse of a solamnic gateguard gets a pair of ancient steel shin": {
+        "desc": "the corpse of a solamnic gateguard gets a pair of ancient steel shin",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "the corpse of a solamnic gateguard gets a suit of spun mithril armour": {
+        "desc": "the corpse of a solamnic gateguard gets a suit of spun mithril armour",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "the corpse of a solamnic gateguard gets a holy talisman from the corpse": {
+        "desc": "the corpse of a solamnic gateguard gets a holy talisman from the corpse",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "the corpse of a solamnic gateguard gets a small silver locket from the": {
+        "desc": "the corpse of a solamnic gateguard gets a small silver locket from the",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "the corpse of a solamnic gateguard gets a glowing ring-sized orb from": {
+        "desc": "the corpse of a solamnic gateguard gets a glowing ring-sized orb from",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "the corpse of boniface.": {
+        "desc": "the corpse of Boniface.",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "the corpse of a solamnic gateguard gets a redstone ring from the corpse": {
+        "desc": "the corpse of a solamnic gateguard gets a redstone ring from the corpse",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "the corpse of a solamnic gateguard gets a glowing scroll of recall from": {
+        "desc": "the corpse of a solamnic gateguard gets a glowing scroll of recall from",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "the corpse of a solamnic gateguard gets a loaf of waybread from the": {
+        "desc": "the corpse of a solamnic gateguard gets a loaf of waybread from the",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "the corpse of a solamnic gateguard gets a sweet pastry from the corpse": {
+        "desc": "the corpse of a solamnic gateguard gets a sweet pastry from the corpse",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "the corpse of a solamnic gateguard gets a wooden raft from the corpse": {
+        "desc": "the corpse of a solamnic gateguard gets a wooden raft from the corpse",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "the corpse of a solamnic gateguard gets an aquamarine potion from the": {
+        "desc": "the corpse of a solamnic gateguard gets an aquamarine potion from the",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "some black and silver sleeves": {
+        "desc": "some black and silver sleeves",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a minotaur battle kilt..covered in blood": {
+        "desc": "a minotaur battle kilt..covered in blood",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a battle suit covered in black polished spikes..covered in blood": {
+        "desc": "a battle suit covered in black polished spikes..covered in blood",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a shimmering silver cape..covered in blood": {
+        "desc": "a shimmering silver cape..covered in blood",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a black neckguard of the lily..covered in blood": {
+        "desc": "a black neckguard of the Lily..covered in blood",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a dragon bone ring..covered in blood": {
+        "desc": "a dragon bone ring..covered in blood",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a deep black steel ring": {
+        "desc": "a deep black steel ring",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a very large pile of coins": {
+        "desc": "a very large pile of coins",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a glowing scroll of recall..it glows dimly [2]": {
+        "desc": "a glowing scroll of recall..it glows dimly [2]",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a green marble chest": {
+        "desc": "a green marble chest",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a hooded lantern": {
+        "desc": "a hooded lantern",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a magical watering can..covered in blood": {
+        "desc": "a magical watering can..covered in blood",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a milky potion of see invisible [3]": {
+        "desc": "a milky potion of see invisible [3]",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a portable keg": {
+        "desc": "a portable keg",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a wolf's head shield..covered in blood": {
+        "desc": "a wolf's head shield..covered in blood",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a piece of bread : 1 coin/day": {
+        "desc": "a piece of bread : 1 coin/day",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a salted herring : 4 coins/day": {
+        "desc": "a salted herring : 4 coins/day",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a waterskin : 15 coins/day": {
+        "desc": "a waterskin : 15 coins/day",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a wooden jug : 15 coins/day": {
+        "desc": "a wooden jug : 15 coins/day",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a waterskin : 10 coins/day": {
+        "desc": "a waterskin : 10 coins/day",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a scroll of recall : 1000 coins/day": {
+        "desc": "a scroll of recall : 1000 coins/day",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a stable note for a horse : 100 coins/day": {
+        "desc": "a stable note for a horse : 100 coins/day",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a shoulder bag : 500 coins/day": {
+        "desc": "a shoulder bag : 500 coins/day",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a potion of bat's blood : 500 coins/day": {
+        "desc": "a potion of bat's blood : 500 coins/day",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a metallic visor : 2500 coins/day": {
+        "desc": "a metallic visor : 2500 coins/day",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a pair of silky black pants : 700 coins/day": {
+        "desc": "a pair of silky black pants : 700 coins/day",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a pair of dwarven boots : 3000 coins/day": {
+        "desc": "a pair of dwarven boots : 3000 coins/day",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a pair of wolf's hide gloves : 500 coins/day": {
+        "desc": "a pair of wolf's hide gloves : 500 coins/day",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a wicker shield : 100 coins/day": {
+        "desc": "a wicker shield : 100 coins/day",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a cape : 1000 coins/day": {
+        "desc": "a cape : 1000 coins/day",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a charred leather belt : 3000 coins/day": {
+        "desc": "a charred leather belt : 3000 coins/day",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a black wrist band : 6000 coins/day": {
+        "desc": "a black wrist band : 6000 coins/day",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a wooden baton : 150 coins/day": {
+        "desc": "a wooden baton : 150 coins/day",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a glowing yellow stone..it glows dimly": {
+        "desc": "a glowing yellow stone..it glows dimly",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a scroll of recall": {
+        "desc": "a scroll of recall",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a milky potion of see invisible": {
+        "desc": "a milky potion of see invisible",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a slender draconian blade": {
+        "desc": "a slender draconian blade",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "the sea meets the winds of the hills here in a mild, gusty breeze that": {
+        "desc": "the sea meets the winds of the hills here in a mild, gusty breeze that",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a clear sphere..it glows blue..it glows dimly": {
+        "desc": "a clear sphere..it glows blue..it glows dimly",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a pair of draconian gauntlets": {
+        "desc": "a pair of draconian gauntlets",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a glowing scroll of recall..it glows blue..it glows dimly [9]": {
+        "desc": "a glowing scroll of recall..it glows blue..it glows dimly [9]",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a clear potion of invisibility..it glows blue [2]": {
+        "desc": "a clear potion of invisibility..it glows blue [2]",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a bit of frozen meat": {
+        "desc": "a bit of frozen meat",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a slimy dark green potion": {
+        "desc": "a slimy dark green potion",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a milky potion of see invisible..it glows blue [2]": {
+        "desc": "a milky potion of see invisible..it glows blue [2]",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a glowing scroll of recall..it glows blue..it glows dimly [2]": {
+        "desc": "a glowing scroll of recall..it glows blue..it glows dimly [2]",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a blackened chest..it glows blue": {
+        "desc": "a blackened chest..it glows blue",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a suit of ergothian battle armor : 180 coins/day": {
+        "desc": "a suit of ergothian battle armor : 180 coins/day",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a white dragonskull helm : 600 coins/day": {
+        "desc": "a white dragonskull helm : 600 coins/day",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a pair of woodsman's leggings : 450 coins/day": {
+        "desc": "a pair of woodsman's leggings : 450 coins/day",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a pair of woodsman's boots : 450 coins/day": {
+        "desc": "a pair of woodsman's boots : 450 coins/day",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a pair of woodsman's sleeves : 450 coins/day": {
+        "desc": "a pair of woodsman's sleeves : 450 coins/day",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a woodsman's cloak : 450 coins/day": {
+        "desc": "a woodsman's cloak : 450 coins/day",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a woodsman's sash : 120 coins/day": {
+        "desc": "a woodsman's sash : 120 coins/day",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a woodsman's bracer [2] : 900 coins/day": {
+        "desc": "a woodsman's bracer [2] : 900 coins/day",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a black granite axe : 750 coins/day": {
+        "desc": "a black granite axe : 750 coins/day",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a brightly hafted axe : 450 coins/day": {
+        "desc": "a brightly hafted axe : 450 coins/day",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "an ancient medallion": {
+        "desc": "an ancient medallion",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a rune etched mithril ring": {
+        "desc": "a rune etched mithril ring",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a silk ribbon": {
+        "desc": "a silk ribbon",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a bright ball of light..it glows dimly": {
+        "desc": "a bright ball of light..it glows dimly",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a loaf of bread [9]": {
+        "desc": "a loaf of bread [9]",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a brewed potion": {
+        "desc": "a brewed potion",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a bone spiked bullwhip": {
+        "desc": "a bone spiked bullwhip",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a brewed potion [3]": {
+        "desc": "a brewed potion [3]",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a broken shard of glass": {
+        "desc": "a broken shard of glass",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a plain component pouch": {
+        "desc": "a plain component pouch",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a wooden splint": {
+        "desc": "a wooden splint",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "the second story windows, but someday they'll tower over the inn's red": {
+        "desc": "the second story windows, but someday they'll tower over the inn's red",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "the breeze.": {
+        "desc": "the breeze.",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "an emerald crest": {
+        "desc": "an emerald crest",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a suit of gold runed armor": {
+        "desc": "a suit of gold runed armor",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a crystalline torc..it glows dimly": {
+        "desc": "a crystalline torc..it glows dimly",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "an obsidian aspen leaf..it hums softly": {
+        "desc": "an obsidian aspen leaf..it hums softly",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a translucent black ring": {
+        "desc": "a translucent black ring",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a runed crimson skull staff": {
+        "desc": "a runed crimson skull staff",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a black bearskin bag": {
+        "desc": "a black bearskin bag",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a massive stone club": {
+        "desc": "a massive stone club",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a handful of gummy bears": {
+        "desc": "a handful of gummy bears",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a small leather pouch": {
+        "desc": "a small leather pouch",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a large jug": {
+        "desc": "a large jug",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a waterskin [2]": {
+        "desc": "a waterskin [2]",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a bottle [2]": {
+        "desc": "a bottle [2]",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a thick black wand..it glows blue": {
+        "desc": "a thick black wand..it glows blue",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "an icy white bracelet..it glows blue": {
+        "desc": "an icy white bracelet..it glows blue",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a golden bracelet inlaid with emeralds(invisible)..it hums softly": {
+        "desc": "a golden bracelet inlaid with emeralds(invisible)..it hums softly",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "an alb..it glows blue": {
+        "desc": "an alb..it glows blue",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a white dragon scale shield..it glows blue": {
+        "desc": "a white dragon scale shield..it glows blue",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a pair of wolf's hide gloves": {
+        "desc": "a pair of wolf's hide gloves",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a pair of thick dwarven boots": {
+        "desc": "a pair of thick dwarven boots",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a pair of black pants..it glows blue": {
+        "desc": "a pair of black pants..it glows blue",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "the royal crown of lemuria..it glows blue": {
+        "desc": "the royal crown of Lemuria..it glows blue",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a pure black tunic..it hums softly": {
+        "desc": "a pure black tunic..it hums softly",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a holy symbol of paladine..it glows blue": {
+        "desc": "a holy symbol of Paladine..it glows blue",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "an ivy necklace": {
+        "desc": "an ivy necklace",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "an obsidian inlaid mithril ring(invisible)..it glows blue": {
+        "desc": "an obsidian inlaid mithril ring(invisible)..it glows blue",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a dark ring..it glows blue..it glows dimly": {
+        "desc": "a dark ring..it glows blue..it glows dimly",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a spider silk pouch(invisible)": {
+        "desc": "a spider silk pouch(invisible)",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a mottled blue potion": {
+        "desc": "a mottled blue potion",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a pouch": {
+        "desc": "a pouch",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "an iron skinning knife": {
+        "desc": "an iron skinning knife",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a small component pouch..it glows blue": {
+        "desc": "a small component pouch..it glows blue",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a set of light blue prayer beads": {
+        "desc": "a set of light blue prayer beads",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "the east. from the north comes the heat of a furnace and the sound of": {
+        "desc": "the east. From the north comes the heat of a furnace and the sound of",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "the bank of balifor.": {
+        "desc": "the bank of Balifor.",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a milky potion of see invisible..it glows blue": {
+        "desc": "a milky potion of see invisible..it glows blue",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a smoked tarsis ham": {
+        "desc": "a smoked Tarsis ham",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a glowing scroll of recall..it glows blue..it glows dimly": {
+        "desc": "a glowing scroll of recall..it glows blue..it glows dimly",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a lake nestled in the tops of several foothills.": {
+        "desc": "a lake nestled in the tops of several foothills.",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "the demon marilith gets a ham from its corpse.": {
+        "desc": "the demon Marilith gets a ham from its corpse.",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "the demon marilith gets a lantern from its corpse.": {
+        "desc": "the demon Marilith gets a lantern from its corpse.",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "the demon marilith gets a waterskin from its corpse.": {
+        "desc": "the demon Marilith gets a waterskin from its corpse.",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "the demon marilith gets a bread from its corpse.": {
+        "desc": "the demon Marilith gets a bread from its corpse.",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "the demon marilith gets a chest from its corpse.": {
+        "desc": "the demon Marilith gets a chest from its corpse.",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "the demon marilith gets a bottle from its corpse.": {
+        "desc": "the demon Marilith gets a bottle from its corpse.",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "some shark skin leggings": {
+        "desc": "some shark skin leggings",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "the royal crown of lemuria": {
+        "desc": "the royal crown of Lemuria",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a suit of steel platemail inlaid with ebony..it glows dimly": {
+        "desc": "a suit of steel platemail inlaid with ebony..it glows dimly",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "an amulet of levitation..it glows dimly": {
+        "desc": "an amulet of levitation..it glows dimly",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "an obsidian amulet": {
+        "desc": "an obsidian amulet",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a clear crystal ring": {
+        "desc": "a clear crystal ring",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a mithril and gold ring(invisible)": {
+        "desc": "a mithril and gold ring(invisible)",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a globe of radiance": {
+        "desc": "a globe of radiance",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a blood red cape..it glows dimly": {
+        "desc": "a blood red cape..it glows dimly",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a purple velvet robe": {
+        "desc": "a purple velvet robe",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a pair of grey leather boots": {
+        "desc": "a pair of grey leather boots",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a gem studded mithril bracer..it glows dimly": {
+        "desc": "a gem studded mithril bracer..it glows dimly",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a rotted, gnarled staff": {
+        "desc": "a rotted, gnarled staff",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a dagger": {
+        "desc": "a dagger",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a flask of clear liquid [2]": {
+        "desc": "a flask of clear liquid [2]",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a suit of green banded leather armor": {
+        "desc": "a suit of green banded leather armor",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a grey leather pouch(invisible)": {
+        "desc": "a grey leather pouch(invisible)",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "some dark sleeves": {
+        "desc": "some dark sleeves",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "some iron plated boots": {
+        "desc": "some iron plated boots",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a pair of dwarven greaves": {
+        "desc": "a pair of dwarven greaves",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a crown of weeds..it glows blue": {
+        "desc": "a crown of weeds..it glows blue",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a white solamnic vest": {
+        "desc": "a white solamnic vest",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "an emerald-studded leather collar": {
+        "desc": "an emerald-studded leather collar",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a short cloak": {
+        "desc": "a short cloak",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a small tin ring": {
+        "desc": "a small tin ring",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a plain gold ring..it glows blue": {
+        "desc": "a plain gold ring..it glows blue",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a brass lamp": {
+        "desc": "a brass lamp",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a girdle with a human skull buckle..it glows blue": {
+        "desc": "a girdle with a human skull buckle..it glows blue",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a backpack of holding..it glows blue": {
+        "desc": "a backpack of holding..it glows blue",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "some black dwarf skin sleeves": {
+        "desc": "some black dwarf skin sleeves",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a pair of dwarven gloves..it glows blue": {
+        "desc": "a pair of dwarven gloves..it glows blue",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a pair of silver boots..it glows blue": {
+        "desc": "a pair of silver boots..it glows blue",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "some black breeches..it glows blue": {
+        "desc": "some black breeches..it glows blue",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a black ring of dragons..it gl": {
+        "desc": "a black ring of dragons..it gl",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "the black knig": {
+        "desc": "the black knig",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a salted herring [4]": {
+        "desc": "a salted herring [4]",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a glass rod filled with multi-colored gas..it glows blue..it glows dimly": {
+        "desc": "a glass rod filled with multi-colored gas..it glows blue..it glows dimly",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a silver charm..it glows blue": {
+        "desc": "a silver charm..it glows blue",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a salted herring": {
+        "desc": "a salted herring",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a bottle": {
+        "desc": "a bottle",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a jewel engraved grail..it glows blue": {
+        "desc": "a jewel engraved grail..it glows blue",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a waterskin [4]": {
+        "desc": "a waterskin [4]",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a hooded lantern [2]": {
+        "desc": "a hooded lantern [2]",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a scroll of recall [4]": {
+        "desc": "a scroll of recall [4]",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    },
+    "a small portable beer barrel": {
+        "desc": "a small portable beer barrel",
+        "effects": [],
+        "flags": [],
+        "zones": []
+    }
+}

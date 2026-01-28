@@ -1,0 +1,34 @@
+{
+    "mage": {
+        "desc": "Mage",
+        "notes": []
+    },
+    "cleric": {
+        "desc": "Cleric",
+        "notes": []
+    },
+    "druid": {
+        "desc": "Druid",
+        "notes": []
+    },
+    "warrior": {
+        "desc": "Warrior",
+        "notes": []
+    },
+    "rogue": {
+        "desc": "Rogue",
+        "notes": []
+    },
+    "barbarian": {
+        "desc": "Barbarian",
+        "notes": []
+    },
+    "paladin": {
+        "desc": "Paladin",
+        "notes": []
+    },
+    "ranger": {
+        "desc": "Ranger",
+        "notes": []
+    }
+}

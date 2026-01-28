@@ -1,0 +1,38 @@
+{
+    "human": {
+        "desc": "Human",
+        "notes": []
+    },
+    "dwarf": {
+        "desc": "Dwarf",
+        "notes": []
+    },
+    "elf": {
+        "desc": "Elf",
+        "notes": []
+    },
+    "gnome": {
+        "desc": "Gnome",
+        "notes": []
+    },
+    "kender": {
+        "desc": "Kender",
+        "notes": []
+    },
+    "minotaur": {
+        "desc": "Minotaur",
+        "notes": []
+    },
+    "goblin": {
+        "desc": "Goblin",
+        "notes": []
+    },
+    "draconian": {
+        "desc": "Draconian",
+        "notes": []
+    },
+    "ogre": {
+        "desc": "Ogre",
+        "notes": []
+    }
+}
