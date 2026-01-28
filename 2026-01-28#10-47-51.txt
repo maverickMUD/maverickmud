@@ -1,0 +1,1464 @@
+Log session starting at 10:47:51 on Wednesday, 28 January 2026.
+l
+The Pig and Whistle
+    A small brass bell sits on a rosewood table along with a guest book.
+There is no need to ring for attention, however; you are getting plenty of
+that already. A brass sign assures you of the quarters' legendary comfort.
+A heavy, adamantite plated prayerbook is here, collecting dust.
+A pile of worn maps sits in the corner, free to adventurers.
+The jailer's keys have been left here.
+Assorted keys dangle from an iron loop here.
+A beefy bouncer stands near the innkeeper, watching for trouble.
+Ed, the crotchety innkeeper, stands here.
+
+99H 131V 15567X 9.60% 50C T:12 Exits:D> lo
+The Pig and Whistle
+    A small brass bell sits on a rosewood table along with a guest book.
+There is no need to ring for attention, however; you are getting plenty of
+that already. A brass sign assures you of the quarters' legendary comfort.
+A heavy, adamantite plated prayerbook is here, collecting dust.
+A pile of worn maps sits in the corner, free to adventurers.
+The jailer's keys have been left here.
+Assorted keys dangle from an iron loop here.
+A beefy bouncer stands near the innkeeper, watching for trouble.
+Ed, the crotchety innkeeper, stands here.
+
+99H 131V 15567X 9.60% 50C T:9 Exits:D> testme
+Huh?!
+
+99H 131V 15567X 9.60% 50C T:7 Exits:D> st
+You stand up.
+
+99H 131V 15567X 9.60% 50C T:5 Exits:D> 
+System Message: Replay recording has started. File: C:/Users/pharrington/.
+config/mudlet/profiles/arcticmud/log/2026-01-28#10-48-03.dat
+n
+Alas, you cannot go that way...
+
+99H 131V 15567X 9.60% 50C T:54 Exits:D> d
+The Pig and Whistle
+    You have entered the tavern of the Pig and Whistle. Unusually large, it
+has a full length oak bar against the far wall. Many bottles of spirits
+fill racks on the walls and beer kegs lay stacked and at the ready in the
+corner. Small stools and tables encrusted with grime invite you to sit and
+relax. A small staircase leads upwards to the sleeping quarters, and to the
+west is a meeting room.
+The Tavern owner, William Sweetwater, offers you a drink and a pie.
+
+99H 130V 15567X 9.60% 50C T:53 Exits:NWU> n
+The Tavern Square
+    Before you stands tavern square, a meeting place of many people and
+races. The cobbles have been freshly washed and there is an air of
+peacefulness about the drinkers wandering into the inn to the south. A dark
+alley leads to the north, a cobbled lane to the west. Death row and the
+executioners block lead to the east. Far to the west lies high street and
+the main shops of Balifor. A big painted sign swings from an iron clasp on
+the tavern wall.
+A muscular watchman quietly patrols the streets of Port Balifor.
+A merchant has erected a portable counter in the middle of the street here.
+
+99H 129V 15567X 9.60% 50C T:53 Exits:NESW> lik
+Huh?!
+
+99H 129V 15567X 9.60% 50C T:51 Exits:NESW> li
+  1. Harpoon              77 a barbed harpoon head
+  2. Helm                137 a black morion helm
+  3. Sword               165 a black sword of the Grimguard
+  4. Hair                 60 a braided lock of werewolf hair
+  5. Bracelet            275 a braided silver bracelet
+  6. Helmet               88 a coral helmet
+  7. Cape                440 a crimson cape
+  8. Staff               770 a demonic bone staff
+  9. Warhammer           352 a double-headed rounded warhammer
+ 10. Helm                 55 a dragonscale helm
+ 11. Greathelm           495 a gold-plated greathelm of fortification
+ 12. Robe                121 a grey witch's robe
+ 13. Bow                 330 a large dark-wood bow
+ 14. Whip                330 a long, barbed whip
+ 15. Faceguard           110 a lustrous faceguard of gore
+ 16. Medallion            93 a medallion of the earth
+ 17. Stiletto             55 a murderer's stiletto
+ 18. Boots               110 a pair of bearskin boots
+ 19. Gloves               99 a pair of black hunting gloves
+ 20. Boots               330 a pair of shadow boots
+ 21. Sleeves             330 a pair of shadow sleeves
+
+ [return for more, q to stop]
+ 22. Pants                88 a pair of worn snakeskin pants
+ 23. Pouch               110 a pouch of forest herbs
+ 24. Eye                 104 a preserved eye of a revenant
+ 25. Shield              440 a preserved green targe
+ 26. Baldric             374 a red baldric of prowess
+ 27. Ring                385 a ring of the panther
+ 28. Robe                220 a seeker's robe
+ 29. Shard               660 a shard of bone
+ 30. Shirt               660 a shirt of brass dragon scales
+ 31. Medallion           110 a small silver medallion
+ 32. Armor               132 a suit of coral armor
+ 33. Whip                198 a whip of braided kelp and shark teeth
+ 34. Robe                 99 a white witch's robe
+ 35. Pike                165 a wood-shafted pike
+ 36. Dagger              330 an inky black dagger
+ 37. Robes               165 some black clerical robes
+ 38. Gauntlets            49 some leather dragonarmy gauntlets
+ 39. Gauntlets           440 some scratched gauntlets of gloom
+ 40. Legwraps            236 some weathered legwraps of Que-Shu
+ 41. Boots                88 thin-soled black boots
+
+99H 129V 15567X 9.60% 50C T:49 Exits:NESW> 
+
+99H 129V 15567X 9.60% 50C T:49 Exits:NESW> 
+
+99H 129V 15567X 9.60% 50C T:48 Exits:NESW> browse
+You browse through the merchandise and notice:
+a barbed harpoon head
+The harpoon's metallic surface is shiny and new. (100%)
+A barbed harpoon head is of poor quality.
+A barbed harpoon head requires knowledge of the skill 'short blades'.
+
+a black morion helm
+The helm's metallic surface is shiny and new. (100%)
+A black morion helm is wearable: head .
+
+a black sword of the Grimguard
+The sword's metallic surface is shiny and new. (100%)
+A black sword of the Grimguard is of poor quality.
+A black sword of the Grimguard requires knowledge of the skill 'long blades'.
+
+a braided lock of werewolf hair
+The hair looks healthy. (100%)
+You feel informed:
+ Object 'hair lock werewolf black strands coarse'
+ Item Type: WORN        
+ Mat Class: natural      Material: organic
+ Weight   : 1            Value   : 55
+
+ [return for more, q to stop]
+
+ Affects  : spell slots   by +1 at level 4
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+   Can use: Cleric
+A braided lock of werewolf hair is wearable: finger .
+
+a braided silver bracelet
+The surface of the bracelet gleams brightly. (100%)
+You feel informed:
+ Object 'bracelet braided silver'
+ Item Type: WORN        
+ Mat Class: metal        Material: silver
+ Weight   : 2            Value   : 250
+
+ Affects  : regeneration by  5%
+ Item is  : GLOW MAGIC
+A braided silver bracelet is wearable: wrist .
+
+a coral helmet
+The helmet appears to be in perfect condition. (99%)
+A coral helmet is wearable: head .
+
+ [return for more, q to stop]
+
+a crimson cape
+The cape appears to be brand new. (100%)
+A crimson cape is wearable: neck .
+
+a demonic bone staff
+The something appears to be in perfect condition. (100%)
+Something is of good quality.
+Something requires knowledge of the skill 'bludgeons'.
+
+a double-headed rounded warhammer
+The warhammer's metallic surface is shiny and new. (100%)
+A double-headed rounded warhammer is of very good quality.
+You feel informed:
+ Object 'warhammer double headed rounded hammer'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: iron
+ Weight   : 16           Value   : 320
+
+ Affects  : DAMROLL       by 1
+ Affects  : HITROLL       by 2
+ Item is  : MAGIC
+
+ [return for more, q to stop]
+ Class    : warhammer
+ Damage   : 2D8
+A double-headed rounded warhammer requires knowledge of the skill 'bludgeons'.
+
+a dragonscale helm
+The helm's scaly surface is in fine shape. (99%)
+A dragonscale helm is wearable: head .
+
+a gold-plated greathelm of fortification
+The greathelm's metallic surface shines brilliantly. (100%)
+You feel informed:
+ Object 'greathelm gold plated helm fortification'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: mithril
+ Weight   : 9            Value   : 450
+
+ Affects  : regeneration by  10%
+ Affects  : score criticals by 0.2%
+ Effects  : NOCHARM
+ Restricts: NOMAGE NOTHIEF NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+   Can use: Paladin
+
+ [return for more, q to stop]
+ Apply    : 9
+A gold-plated greathelm of fortification is wearable: head .
+
+a grey witch's robe
+The robe appears to be brand new. (98%)
+A grey witch's robe is wearable: about .
+
+a large dark-wood bow
+The wooden surface of the bow is in perfect condition. (100%)
+
+a long, barbed whip
+The whip appears rough and in perfect condition. (98%)
+A long, barbed whip is of excellent quality.
+You feel informed:
+ Object 'whip long barbed'
+ Item Type: WEAPON      
+ Mat Class: leather      Material: rough_leather
+ Weight   : 11           Value   : 300
+
+ Affects  : DAMROLL       by 2
+ Affects  : HITROLL       by -1
+ Restricts: NOMAGE NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT N
+ [return for more, q to stop]
+OBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+   Can use: Thief
+ Class    : whip
+ Damage   : 3D5
+This whip is hard to control, but well worth the effort.A long, barbed whip requires knowledge of
+the skill 'miscellaneous'.
+
+a lustrous faceguard of gore
+The faceguard's metallic surface is bright and shiny. (100%)
+You feel informed:
+ Object 'faceguard lustrous guard gore'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: bronze
+ Weight   : 9            Value   : 100
+
+ Affects  : HP_REGEN      by 2
+ Affects  : ARMOR         by -3
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NODARK_KNIGHT NOBARBARIAN
+NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+   Can use: Warrior
+ Apply    : 3
+A lustrous faceguard of gore is wearable: head .
+
+ [return for more, q to stop]
+
+a medallion of the earth
+The medallion appears to be in perfect condition. (100%)
+A medallion of the earth is wearable: neck .
+
+a murderer's stiletto
+The stiletto's metallic surface is bright and shiny. (100%)
+A murderer's stiletto is of fair quality.
+A murderer's stiletto requires knowledge of the skill 'short blades'.
+
+a pair of bearskin boots
+The boots looks healthy. (100%)
+A pair of bearskin boots is wearable: feet .
+
+a pair of black hunting gloves
+The gloves appears to be brand new. (100%)
+A pair of black hunting gloves is wearable: hands .
+
+a pair of shadow boots
+The boots appears very tough and in perfect condition. (99%)
+A pair of shadow boots is wearable: feet .
+
+
+ [return for more, q to stop]
+a pair of shadow sleeves
+The sleeves appears to be brand new. (99%)
+A pair of shadow sleeves is wearable: arms .
+
+a pair of worn snakeskin pants
+The pants appears rough and in perfect condition. (100%)
+A pair of worn snakeskin pants is wearable: legs .
+
+a pouch of forest herbs
+The pouch appears rough and in perfect condition. (100%)
+pouch (here) : 
+
+a preserved eye of a revenant
+The eye looks healthy. (100%)
+A preserved eye of a revenant is wearable: hold .
+
+a preserved green targe
+The shield appears to be in perfect condition. (100%)
+A preserved green targe is of very good quality.
+You feel informed:
+ Object 'shield preserved green targe'
+ Item Type: WORN        
+
+ [return for more, q to stop]
+ Mat Class: natural      Material: ice
+ Weight   : 9            Value   : 400
+
+ Affects  : HEALTH        by 7
+ Affects  : HP_REGEN      by 1
+ Restricts: NOTHIEF NOPALADIN NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+A preserved green targe is wearable: shield .
+
+a red baldric of prowess
+The baldric's scaly surface is in fine shape. (100%)
+A red baldric of prowess is wearable: about .
+
+a ring of the panther
+The ring's metallic surface is shiny and new. (100%)
+A ring of the panther is wearable: finger .
+
+a seeker's robe
+The robe appears to be brand new. (99%)
+A seeker's robe is wearable: about .
+
+a shard of bone
+The shard appears to be in perfect condition. (100%)
+
+ [return for more, q to stop]
+A shard of bone is of good quality.
+A shard of bone requires knowledge of the skill 'short blades'.
+
+a shirt of brass dragon scales
+The shirt's scaly surface is in fine shape. (96%)
+You feel informed:
+ Object 'shirt brass dragon scale'
+ Item Type: ARMOR       
+ Mat Class: scale        Material: dragonscale
+ Weight   : 22           Value   : 600
+
+ Affects  : ARMOR         by -10
+ Affects  : CON           by 1
+ Item is  : MAGIC ANTI_EVIL
+ Immune   : IMMUNE_HEAT
+ Apply    : 10
+ This object is part of a larger set.
+A shirt of brass dragon scales is wearable: body .
+
+a small silver medallion
+The surface of the medallion gleams brightly. (100%)
+
+
+ [return for more, q to stop]
+a suit of coral armor
+The armor appears to be in perfect condition. (99%)
+A suit of coral armor is wearable: body .
+
+a whip of braided kelp and shark teeth
+The whip looks healthy. (100%)
+A whip of braided kelp and shark teeth is of good quality.
+A whip of braided kelp and shark teeth requires knowledge of the skill 'miscellaneous'.
+
+a white witch's robe
+The robe appears to be brand new. (100%)
+A white witch's robe is wearable: about .
+
+a wood-shafted pike
+The hard wooden surface of the pike is in perfect condition. (100%)
+A wood-shafted pike is of poor quality.
+A wood-shafted pike requires knowledge of the skill 'pole arms'.
+
+an inky black dagger
+The dagger's metallic surface is shiny and new. (99%)
+An inky black dagger is of good quality.
+
+ [return for more, q to stop]
+An inky black dagger requires knowledge of the skill 'short blades'.
+
+some black clerical robes
+The robes appears to be brand new. (100%)
+Some black clerical robes is wearable: about .
+
+some leather dragonarmy gauntlets
+The gauntlets appears rough and in perfect condition. (100%)
+Some leather dragonarmy gauntlets is wearable: hands .
+
+some scratched gauntlets of gloom
+The gauntlets's metallic surface is shiny and new. (100%)
+Some scratched gauntlets of gloom is wearable: hands .
+
+some weathered legwraps of Que-Shu
+The legwraps is stiff and in perfect condition. (100%)
+You feel informed:
+ Object 'legwraps weathered wraps que-shu'
+ Item Type: ARMOR       
+ Mat Class: leather      Material: hard_leather
+ Weight   : 8            Value   : 215
+
+
+ [return for more, q to stop]
+ Affects  : MOVE_REGEN    by 4
+ Affects  : regeneration by  3%
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBLACK_ROBE
+NORED_ROBE NOWHITE_ROBE NOSHAMAN
+   Can use: Barbarian
+ Apply    : 3
+Some weathered legwraps of Que-Shu is wearable: legs .
+
+thin-soled black boots
+The boots appears rough and in perfect condition. (100%)
+Thin-soled black boots is wearable: feet .
+A drunken sailor arrives from the east.
+
+99H 129V 15567X 9.60% 50C T:42 Exits:NESW> 
+
+99H 129V 15567X 9.60% 50C T:42 Exits:NESW> 
+
+99H 129V 15567X 9.60% 50C T:42 Exits:NESW> news
+December 20, 2025
+
+          *** PvP Tournament Postponement Announcement ***
+
+    Due to unexpected acts of nature, the PvP tournament will need
+to be rescheduled to a later date. Please keep your eyes peeled for
+a future poll to set up the new time in the near future.
+
+    Thanks for your understanding,
+
+-Arctic Staff
+
+December 19, 2025
+
+                  *** PvP Tournament Announcement ***
+
+     The immortal staff is pleased to bring news of another (PvP)
+tournament! The official tournament start time will be Sunday,
+December 21st 18:00 UTC in-game System Time (please check for your local
+timezone).
+
+  Details:
+
+ [return for more, q to stop]
+      - Any level 28+ player can compete in any tournament format.
+      - You may bring your own gear: it will neither drop on death nor 
+     frag in the arena.
+     - For those that would like, a temporary set of class gear and a 
+     weapon type of your choosing can be provided. This equipment will
+     be taken back upon the end of the event.
+     - Self-prep & group-prep spells are allowed in peaceful rooms upon
+     entry to the arena.
+     - No outside prep permitted. (i.e.: wands, scrolls, potions, 
+     anything brewed/scribed) - Use of "orbs" is restricted. 
+     - Corpses and spirits will exist in the arena.
+
+  Sign-Ups:
+     - There will be two events. 2v2, and a last man standing.
+     - Please either use the Google form or message Rinad/Seeros/Attai/Ayeka
+     to register your interest.
+     - Google Form: https://forms.gle/w2DJybev8rUjKeEUA
+
+  2v2 Specifics:
+     - You may pick your teammate.
+     - Players may register a team solely of their own characters. (Multi
+     allowed.)
+
+ [return for more, q to stop]
+     - If you do not have a teammate but still would like to enter, the
+     staff will attempt to pair you up with another single player
+     entrant.
+     - No character swaps are allowed after the tournament has started.
+
+  Last Man Standing Specifics:
+     - Only one character may be registered.
+     - A round will consist of (up to) 8 characters entering, and only 1
+     leaving!
+     - If there is more than one round, round's winners will go compete 
+     against each other for the grand prize!
+
+     For those who do not enjoy participating in PvP, you can still
+experience the excitement in real time by using the arena 'spectate'
+system. Check the signage in an inn of any major city on tournament day.
+
+     Everyone who competes in the tournament will receive something to take
+away (in addition to the glory and death). Of course, the fiercest, most
+talented, or most lucky gladiators will walk away with the most fabulous
+prizes!
+
+- Arctic Staff
+
+ [return for more, q to stop]
+
+December 13, 2025
+
+Happy Holidays! 
+
+Gnomish toy factories are renown for mass producing toys at Christmas time
+to bring happiness and joy to the children of Krynn, the most famous of
+which is the legendary toy factory of Sandy Klorze.
+
+Recently, rumors have been circulating of nefarious groups planning to
+attack these facilities which, when coupled with reports of a frantic
+gnomish tinkerer near the western gate of Palanthas seeking the aid of
+stalwart adventurers, can only mean trouble. Or perhaps it represents
+opportunity, as there will certainly be fantastic festive rewards for the
+valiant heroes who save Christmas!
+
+The seasonal Christmas instance zone has a 24-hour lockout, meaning each
+character can only enter once per 24 hours. There is also a 90 minute timer
+to complete an instance. The event will be available between now and New
+Year's Day.
+
+Most importantly, Merry Christmas and Happy New Year to you all!
+
+ [return for more, q to stop]
+
+- Arctic Staff
+
+December 3, 2025
+
+The auto-maintain feature for vaults has been temporarily disabled.
+
+The 'VAULT_AUTO_MAINTAIN' character option can still be toggled, but it
+doesn't work (intentionally) for now.
+
+- Arctic Staff
+
+November 26, 2025
+
+Gobble Gobble Gobble!
+
+Wild turkeys have once again been unleashed on the world of Krynn. They are 
+running rampant throughout the roads, forests, and mountains of the world. 
+Seek out and hunt these avian menaces, but be sure to keep safe the prized 
+feathers you pluck from their carcasses. Special awards (coins & equipment) 
+will be given to the players who can hoard the most feathers!
+
+
+ [return for more, q to stop]q
+A watchman of Port Balifor leaves east.
+
+99H 129V 15567X 9.60% 50C T:38 Exits:NESW> rank
+You are rank 0. You have 0 Rank Points to spend.
+
+Your current rank affects:
+
+
+99H 129V 15567X 9.60% 50C T:37 Exits:NESW> help
+ArcticMUD Help
+--------------
+
+ArcticMUD is a deep and complex game with a wide variety of
+help files to assist players. A full list of help files is
+available via the 'topics' command. Below are recommendations
+for help files that may be helpful to both new and old players.
+
+HELP NEWBIE and HELP FAQ are recommended for new players.
+
+Help files for specific commands:
+
+ ---- Movement ----             ---- Interaction ----
+
+scan exits fly follow           open close drop put examine
+wake sleep sit stand rest       hold get look kill eat drink
+dismount swap mount             quaff give wear wield remove 
+                                eat drink cast dispel
+
+ ---- Communication ----        ---- Information ----
+
+say shout yell tell whisper     score affects rank
+
+ [return for more, q to stop]
+equipment who gtell emote       group skills spells
+
+ ---- Other Commands ----
+
+rent reserve deposit learn study memorize store retrieve
+sell buy value list recite cancel consider systat
+
+Other informative help files:
+
+alignment experience levels movement searching bank
+inns clan vault link area directions disclaimer rules
+socials death flags reincarnation
+
+99H 129V 15567X 9.60% 50C T:33 Exits:NESW> help combat
+Combat is found every day by characters throughout Krynn. As you adventure,
+you will come across creatures of all shapes and sizes, many of which do
+not appreciate you being in their territory. To start combat with another
+creature, you can simply HIT or KILL them. This will attempt to put you in
+combat with your opponent, where you automatically exchange blows. As a
+rule, you should always have a weapon WIELDed when you go into combat, as
+you do very little melee damage without one. You may also have SKILLS or
+SPELLS that allow you to hurt your opponents in combat. A skillful blow in
+combat may do extra damage as a CRITICAL HIT.
+
+If you are part of a GROUP and one of your groupmates is in combat, you can
+ASSIST him to help fight the opponent. If you succeed in killing the
+creature, you will generally be rewarded EXPERIENCE. As you gain experience
+you will eventually rise in LEVELS and power.
+
+If you are in combat and you seem to be losing the fight, you may need to
+FLEE from it. If you just want to step away from a fight that you were
+assisting in, you might RETREAT instead. If you are unable to win a fight,
+it may result in DEATH for you.
+
+Combat that is done with other players falls under the rules for PKILLING,
+which can have other consequences. Certain rooms in towns also provide
+
+ [return for more, q to stop]
+protection from combat or other violence for the standard onlooker.
+
+SEE ALSO: ASSIST, CAST, "CRITICAL HITS", EXPERIENCE, DEATH, FLEE, GROUP,
+          HIT, KILL, LEVELS, PKILLING, RETREAT, SKILLS, SPELLS, WIELD
+
+99H 129V 15567X 9.60% 50C T:27 Exits:NESW> help assist
+Format: ASSIST <character>
+    or: ASSIST
+
+This command will cause you to assist in attacking whatever the character
+is currently attacking. This is useful when in groups (so that you attack
+the same monster as everyone else!). For example,
+    assist Azran
+
+will allow you to help Azran attack whatever he is attacking at that time.
+
+If you type "assist" with no arguments it randomly selects a group member
+in the room involved in combat and assists them.
+
+SEE ALSO: KILL, GROUP
+
+99H 129V 15567X 9.60% 50C T:23 Exits:NESW> help kill
+Format: KILL <victim>
+        HIT <victim>
+
+To KILL or HIT someone is a good way of starting a fight. The victim must
+be another player or monster in the room with you.
+
+See also: ASSIST, RETREAT, FLEE, "CRITICAL HITS"
+
+99H 129V 15567X 9.60% 50C T:20 Exits:NESW> help loot
+There is no help on that topic.
+
+99H 129V 15567X 9.60% 50C T:11 Exits:NESW> 
+
+A drunken sailor leaves west.
+
+99H 129V 15567X 9.60% 50C T:10 Exits:NESW> 
+
+A watchman of Port Balifor arrives from the east.
+
+99H 129V 15567X 9.60% 50C T:8 Exits:NESW> help learn
+
+A watchman of Port Balifor arrives from the north.
+
+99H 129V 15567X 9.60% 50C T:8 Exits:NESW> 
+Format: learn '<spell>'|<skill> ...
+        learn all/everything
+
+This command works while standing in the same room as a guildmaster.
+
+Specifying no <spell> or <skill> will list (for each guildmaster in the room)
+the spells/skills you can learn from them.
+
+If <spell> or <skill> is specified, then that spell/skill will be learned
+from the guildmaster.  You can enter multiple spells/skills to learn.
+For example:
+    learn kick bash backstab
+    learn all
+
+In the case of spells, the spell caster has a chance at learning the spell
+from the guildmaster. If they fail, they must wait until they have advanced a
+level before attempting to learn it again. Once a spell is successfully
+learned, the spell is made known to the caster, but he/she must still
+memorize the spell whenever they wish to cast it. Essentially, spells are
+copied (using the "learn" command) into the player's "virtual spellbook"
+whose contents can be listed using the "spells" command.
+
+
+ [return for more, q to stop]
+In the case of skills, guildmasters can simply guide you in the use of the
+skill, after which the player must go out and use the skill before returning
+to the guildmaster for more training.  An appropriate message as to whether
+or not the guildmaster can train you further in your skill will be given if
+you try to learn a skill.
+
+Note that spells must be enclosed in single quotes (').
+
+Specifying "all" or "everything" as an argument will make it so that you
+(attempt to) learn everything you possibly can from the guildmaster.
+
+SEE ALSO: "SPELL SYSTEM", "SKILL SYSTEM", SPELLS, SKILLS
+
+99H 129V 15567X 9.60% 50C T:6 Exits:NESW> 
+
+99H 129V 15567X 9.60% 50C T:6 Exits:NESW> 
+
+99H 129V 15567X 9.60% 50C T:6 Exits:NESW> help mem
+
+Formats: memorize
+         memorize  '<spell name>' ...
+         memorize <qty> '<spell name>'
+         memorize auto
+         memorize stop '<spell name>' ...
+
+Examples (these assume the character has learned the spells specified):
+  memorize 'light' 'magic missile' -- Sets these spells to be memorized, if
+                                      there are empty spell slots available.
+  memorize stop 'shield'           -- Removes the 'shield' spell from your
+                                      memorization queue.
+  memorize stop                    -- Removes all spells from your
+                                      memorization queue.
+
+The "memorize" command is used by all spell-casters to control the spells
+that they memorize and can then cast. The argument 'auto' is used to toggle
+your auto-memorization flag. If the flag is on, then any spells you cast
+will be placed back on the memorization list for you.
+
+The argument 'stop' is used for stopping memorization of particular spells
+or, if no spells are specified, all spells currently being memorized will
+
+ [return for more, q to stop]
+be removed from the memorization list.  You may specify a list of spells
+to stop memorizing.
+
+When you specify spells, you will begin (or stop) memorizing them.  The time
+it takes to finish memorizing your spell(s) depends on which spell(s) you are
+currently memorizing, the level of the spell you have just begun memorizing,
+and the phase of your alignment's moon if you are a mage.  You don't have to
+rest or sit to memorize although your studies will take less time in these
+positions.  However, you won't memorize if you are fighting, dying or unable
+to read your spellbook (for instance, if it is dark or if you are
+sleeping). You may specify a list of spells to begin memorizing.
+
+Specifying no argument will list spells you have memorized, those you are
+currently memorizing, estimated time of completing your current memorization
+session, and how many spells you can memorize at each spell level.  Please
+note that the completion time is estimated.  Only under certain conditions
+does one actually memorize spells in their memorization list, often at a time
+penalty (if not resting).  Otherwise, the time does not 'advance' for the
+memorization time of your list.  The output will be:
+
+Spells currently memorized:
+1: [ 1]bless                [ 1]create food          [ 1]create water
+
+ [return for more, q to stop]
+   [ 2]cure light
+3: [ 1]poison
+5: [ 1]holy aura
+6: [ 1]harm                 [ 1]summon               [ 2]heal
+   [ 1]word of recall
+7: [ 1]animate dead
+
+Spells on memorization list:
+3: [ 1]fear
+
+Spells left (level-number): 1-4 2-9 3-6 4-8 5-6 6-1 7-2
+
+The numbers on the left are the spell levels.  The numbers in []'s
+indicate the number of copies of that spell are being or have been memorized.
+
+For example,
+    7: [ 2]animate dead      [ 1]gate
+indicates that you have 2 'animate dead' spells and 1 'gate' spell currently
+memorized and both spells are level 7 spells.
+
+See also : SPELLS, "SPELL SYSTEM", CAST, LEARN, STUDY, MOONS, FORGET
+
+99H 129V 15567X 9.60% 50C T:3 Exits:NESW> 
+
+99H 129V 15567X 9.60% 50C T:2 Exits:NESW> help moon
+Format: MOONS
+
+This command will display the current phase of the moons when you are
+outdoors. Only creatures aligned with evil will see the phase of the moon
+Nuitari. Everyone can see the other moons, Lunitari and Solinari. The moons
+can affect adventurers in various ways, and mages will find that their
+memorization rates and other abilities are modified by the phases of their
+respective moon. Specifically, the power of mages is greatest when their
+moon is full, and weakest when it is new.
+
+SEE ALSO: MEMORIZE, STUDY, SPELLS, CAST, "SPELL SYSTEM", WEATHER
+
+99H 131V 15567X 9.60% 50C T:60 Exits:NESW> help align
+The Alignment System:
+
+There are 10 different alignments at arctic. These alignments can be
+arranged so as to form a circle of alignments. The names of some of the
+alignments are very much like some of the D&D alignments. Make no
+assumptions about what an alignment is based on its D&D counterpart. The
+alignments can be grouped by good/neutral/evil or by
+lawful/chaotic/neither(neutral). The word neutral, however, will always be
+used in the context of the former grouping. The former grouping also takes
+precedence over the second grouping. The good alignments are those
+characters that fight for the cause of good against evil. Such characters
+do not take a life lightly; they will bear the consequences of their
+actions. The evil alignments indicate those who have taken up the fight
+against good, and seek to destroy it. Neutral characters seek a balance of
+the forces of good and evil, and so try to be balanced in their actions.
+Lawful essentially means an extreme. Thus Good Lawful is an alignment which
+is good in the extreme. The idea here is that the truly good, neutral, or
+evil will work within the confines of their respective rule systems to
+further their ultimate goal. The most evil, for example, will not kill
+indiscriminately, as they will not kill those who can be useful to them (in
+game terms this basically means other evil creatures) in the interests of
+the struggle versus good.
+
+ [return for more, q to stop]
+
+Alignments affect a number of things in the game.  Some objects will or will
+not be usable by certain groups.  Alignment determines the colour of a mage's
+robe, and the moon with which their power fluctuates.  The experience
+received from NPCs is dependent on the alignments of the combatants that
+are involved.  Keep a close watch of the experience you are getting, this
+will give you an idea of whether such behaviour is appropriate for somebody
+of your alignment.  The good alignments are penalized the most for killing
+inappropriately, and are rewarded the most for taking up their fight against
+evil.  The neutral alignments will get full experience for almost any NPC
+but must maintain a balance to remain neutral.  Evil alignments will get
+full experience for everything but other evil mobs, but will be rewarded with
+bonus experience when fighting for the cause of evil.
+
+Here is a list of the 10 alignments:
+    NC Neutral Chaotic          NL Neutral Lawful
+    EC Evil Chaotic             NG Neutral Good
+    EL Evil Lawful              GN Good Neutral
+    EN Evil Neutral             GL Good Lawful
+    NE Neutral Evil             GC Good Chaotic
+
+You can get selected help on any of these.  For example, to get help on the
+
+ [return for more, q to stop]
+neutral chaotic alignment, you can do "help nc" or "help neutral chaotic".
+
+THE PATH OF ALIGNMENTS
+
+        The following diagram shows how the alignments are related to one 
+another. A '<' pointing at an alignment means you need to make a positive
+change (destroy evil) to move in that direction. A '>' pointing at an
+alignment means you need to make a negative change (destroy good) to move
+in that direction.
+
+        GL <-> GC <-> GN <-> NG <-> NL <-> NC <-> NE <-> EN <-> EC <-> EL
+
+SEE ALSO:  "ALIGNMENT CHANGE", NC, EC, EL, EN, NE, NL, NG, GN, GL, GC
+A watchman of Port Balifor leaves north.
+
+99H 131V 15567X 9.60% 50C T:54 Exits:NESW> 
+
+99H 131V 15567X 9.60% 50C T:54 Exits:NESW> 
+
+A watchman of Port Balifor arrives from the east.
+
+99H 131V 15567X 9.60% 50C T:51 Exits:NESW> 
+
+A watchman of Port Balifor leaves west.
+
+99H 131V 15567X 9.60% 50C T:50 Exits:NESW> help class
+There are several guilds that are accepted in the world of Krynn. A guild is
+like a profession or career, and each adventurer must choose a guild to whose
+ideals or aims you wish to follow. Each guild has specific skills attributed
+to them, and all are fundamental in successfully exploring the territory
+around you and defeating the monsters you will inevitably encounter! As you
+advance in experience, your guild will train you in these special abilities
+that will help you in your travels.
+
+Some guilds involve magic, while others rely on cunning and quick wit. With
+the wide range of adventurers wandering the world, Krynn is used to
+abnormalities and all will be accepted in most towns without kicking up too
+much of a fuss.
+
+Each guild is different to play, requiring differing strategies to bring out
+the best in them. There is more detailed help available on the following
+guilds:
+     BARBARIAN      BLACK ROBE
+     CLERIC         DARK KNIGHT
+     DRUID          PALADIN
+     MAGIC USER     RED ROBE
+     SCOUT          SHAMAN
+     THIEF          WHITE ROBE
+
+ [return for more, q to stop]
+     WARRIOR
+
+For detailed information on a guild type 'help guild <guild>'.
+You may see what special abilities your class has by typing SKILLS. These
+skills have their own help.
+
+See also: SKILLS, SPELLS
+
+99H 131V 15567X 9.60% 50C T:45 Exits:NESW> help class paladin
+There is no help on that topic.
+
+99H 131V 15567X 9.60% 50C T:40 Exits:NESW> 
+
+A watchman of Port Balifor leaves west.
+
+99H 131V 15567X 9.60% 50C T:39 Exits:NESW> help paladin
+Paladins are knights in the cause of good.  They are men of combat, but live
+by the ideals of righteousness, justice, honesty, piety and chivalry.  Their
+obedience and fealty are sworn not to a monarch, but to a deity of good.
+A Paladin must always be of good alignment. Should the paladin perform too
+many evil acts against those of his beliefs, he will lose his status as a
+paladin and the special skills (and spells) that he has become proficient in
+will become severely weakened.  A paladin that has lost status will find it
+particularly difficult to advance. It is possible for paladin status to be
+regained through atonement.
+
+The faith system (HELP FAITH) will give a paladin an indication of how he
+is seen in the eyes of the Gods of Light. A paladin will notice his skills
+diminishing as he fades further out of favor with the good Gods.
+
+They have fighting skills similar to warriors in nature as well as a few
+spells granted to them by their deity.  Their combined knowledge of might and
+magic gives them an advantage both in and out of battle.  Paladins are
+able to detect evil creatures and objects (they will see a red aura).  As
+a result of their dedication to the cause of good, paladins are often better
+in battle when doing battle against evil creatures.
+
+Strength and health are important attributes for fighting.
+
+ [return for more, q to stop]
+
+Early Skills:
+bludgeons               lay                     long blades
+miscellaneous           piercers                pole arms
+rescue                  short blades            two-handed
+bandage                 shield block            strike
+
+NOTE: Later skills must be learned about through playing the class.
+
+Allowable Races:
+dargonesti      half-elf        human           hylar dwarf 
+
+Alignment Restrictions:
+Lawful Good
+
+Paths:
+Upon reaching level 25, paladins may perform a quest that will allow them to
+join the ranks of the Knights of Solamnia. Although doing so is optional, the
+gains are extraordinary and every paladin should attempt to join.
+
+See also: SPELLS, GUILDS, SKILLS, RACES, ATONEMENT, FAITH
+
+99H 131V 15567X 9.60% 50C T:35 Exits:NESW> 
+
+99H 131V 15567X 9.60% 50C T:35 Exits:NESW> 
+
+99H 131V 15567X 9.60% 50C T:35 Exits:NESW> w
+A Cobbled Lane
+    The narrow cobbled lane leads east-west towards the main town squares.
+Old houses loom above you, casting shadows that dance and seem to follow
+your movements. The occasional rat scurries away in your presence. To the
+north you see an old well house, possibly the oldest building in this
+section of town.
+A muscular watchman quietly patrols the streets of Port Balifor.
+A muscular watchman quietly patrols the streets of Port Balifor.
+
+99H 130V 15567X 9.60% 50C T:34 Exits:NEW> w
+A Cobbled Lane
+    The narrow cobbled lane leads east-west towards the main town squares.
+Old houses loom above you, casting shadows that dance and seem to follow
+your movements. The occasional rat scurries away in your presence. Traders
+can be seen travelling down this to and from the inns of Balifor at all
+times of day or night.
+A drunken sailor steadies himself as he tries to stagger back to his boat.
+
+99H 129V 15567X 9.60% 50C T:34 Exits:EW> w
+Traders Square
+    This is the centre and heart of Port Balifor. All around you tradesmen
+banter for your custom. Their many bright and varied goods hang from wooden
+stalls and mobile barrows. The smell of fresh produce fills the air,
+sea-salt sweet. The hustle and bustle of people coming and going distort
+your view of the many fine houses that occupy the streets that lead away
+from the centre in all directions. A sign stands in the centre of the
+cobbled square.
+
+99H 128V 15567X 9.60% 50C T:34 Exits:NESW> w
+High Street
+    You are on the main shopping street of Port Balifor. To the west you
+hear shouts as the shopkeepers make their living. Traders square lies to
+the east. From the north comes the heat of a furnace and the sound of
+clanging metal. Heavy steel shutters to the south are the main defense of
+the bank of Balifor.
+A feral cat parades her territory and sniffs your leg.
+A feral cat purrs contentedly.
+
+99H 127V 15567X 9.60% 50C T:34 Exits:NESW> w
+High Street
+    The street continues in an east-west direction. There is much more
+space here. There is no need to dive into the gutter when one of the many
+wooden barrows tries to push through the ever-increasing crowd. You keep a
+watchful eye on the kenders nearby.
+
+99H 126V 15567X 9.60% 50C T:33 Exits:NESW> w
+High Street
+    The street continues in an east-west direction. There is much more
+space here. There is no need to dive into the gutter when one of the many
+wooden barrows tries to push through the ever-increasing crowd. You keep a
+watchful eye on the kender nearby.
+A mouse scampers about, scavenging for food and avoiding feral cats.
+A muscular watchman quietly patrols the streets of Port Balifor.
+A wandering preacher stands here, trying to convert the people to his faith.
+
+99H 125V 15567X 9.60% 50C T:33 Exits:NESW> w
+Dock Road and High Street
+    Dock Road and High Street meet here in a three way junction. As you
+observe the intersection, you note that there are numerous sailors
+staggering from the local bars to their ships at all times of day. You also
+notice traders conversing both with themselves and the local shopkeepers.
+They are buying and selling the wares that they use to make a living.
+
+99H 124V 15567X 9.60% 50C T:33 Exits:NESW> w
+The Western Entrance to the City
+    All manner of people are crowding both into and away from the city
+here. The wonderfully varied races of Krynn are all well-represented here.
+Merchants showing glittering trinkets catch your eye, tempting you to spend
+some of your cash on their overpriced wares in order to get them to leave
+you alone.
+A large grey seagull perches here, ready to take flight.
+A huge, loud pelican stands here, eyeing the water for a fish to catch.
+
+99H 123V 15567X 9.60% 50C T:32 Exits:NES> w
+Alas, you cannot go that way...
+
+99H 123V 15567X 9.60% 50C T:32 Exits:NES> n
+The End of the West Pier
+    You stand here at the end of the Western Pier, fighting the crowd to
+get to your destination. This pier is by far the busiest and largest of the
+three major piers belonging to the city, and the immense rush of people
+serves as a testament to this fact. You are thankful for the presence of
+the Balifor Watchmen on the docks, as you are almost too busy gazing at
+strange travelers to watch your own purse.
+A large grey seagull perches here, ready to take flight.
+A large grey seagull perches here, ready to take flight.
+
+99H 122V 15567X 9.60% 50C T:31 Exits:NSW> w
+Along the West Pier
+    Standing on this end of the West Pier, you are shoulder to shoulder
+with all manner of people. Merchants wander to and from the ship anchored
+to the south, and fishermen pull tremendous loads of fish from the ship
+docked further down the pier. You keep one hand on your money purse and the
+other on your weapon as you make your way through this crowded area.
+A merchant walks along the docks here, looking to make his way to the city.
+A huge, loud pelican stands here, eyeing the water for a fish to catch.
+A long grey rat crawls along the edges of the docks.
+
+99H 121V 15567X 9.60% 50C T:30 Exits:ESW> s
+The Midsection of a Passenger Ship
+    It appears that this ship was constructed for the purpose of ferrying
+people on short journeys across the Bay, or perhaps to nearby settlements,
+towns, and cities. Perhaps because of the presence of the dragonarmies,
+this company has fallen on slow times as few seem to be paying for such
+transportation. This once beautiful boat has fallen into hard times and ill
+repair.
+A crewman of the local ferry stands here, seemingly out of work.
+A crewman of the local ferry stands here, seemingly out of work.
+
+99H 120V 15567X 9.60% 50C T:30 Exits:NEWD> e
+At the Helm of a Passenger Ship
+    Standing near the helm of this ship, you are suprised at the lack of
+navigational equipment. You determine that this ship could hardly handle
+rough open waters, so it stands to reason that a good captain could easily
+navigate with only a detailed knowledge of the coastline. This fact makes
+the presence of a good, sober captain a must in order for this ship to
+sail.
+A young watchman of Port Balifor walks through the docks.
+A young kender stands here, looking about curiously.
+The drunken captain barely stands here, leaning against the wall for support.
+
+99H 119V 15567X 9.60% 50C T:30 Exits:W> slap captain
+You slap the captain around awhile, trying to revive him.
+
+The captain says 'Thank you for bringing me out of that stupor.'
+The captain says 'I feel much better now.'
+You receive 3000 experience.
+
+99H 119V 12567X 9.60% 50C T:28 Exits:W> w
+The Midsection of a Passenger Ship
+    It appears that this ship was constructed for the purpose of ferrying
+people on short journeys across the Bay, or perhaps to nearby settlements,
+towns, and cities. Perhaps because of the presence of the dragonarmies,
+this company has fallen on slow times as few seem to be paying for such
+transportation. This once beautiful boat has fallen into hard times and ill
+repair.
+A crewman of the local ferry stands here, seemingly out of work.
+A crewman of the local ferry stands here, seemingly out of work.
+
+99H 118V 12567X 9.60% 50C T:27 Exits:NEWD> n
+Along the West Pier
+    Standing on this end of the West Pier, you are shoulder to shoulder
+with all manner of people. Merchants wander to and from the ship anchored
+to the south, and fishermen pull tremendous loads of fish from the ship
+docked further down the pier. You keep one hand on your money purse and the
+other on your weapon as you make your way through this crowded area.
+A huge, loud pelican stands here, eyeing the water for a fish to catch.
+A long grey rat crawls along the edges of the docks.
+
+99H 117V 12567X 9.60% 50C T:26 Exits:ESW> e
+The End of the West Pier
+    You stand here at the end of the Western Pier, fighting the crowd to
+get to your destination. This pier is by far the busiest and largest of the
+three major piers belonging to the city, and the immense rush of people
+serves as a testament to this fact. You are thankful for the presence of
+the Balifor Watchmen on the docks, as you are almost too busy gazing at
+strange travelers to watch your own purse.
+A merchant walks along the docks here, looking to make his way to the city.
+A large grey seagull perches here, ready to take flight.
+A large grey seagull perches here, ready to take flight.
+
+99H 116V 12567X 9.60% 50C T:25 Exits:NSW> s
+The Western Entrance to the City
+    All manner of people are crowding both into and away from the city
+here. The wonderfully varied races of Krynn are all well-represented here.
+Merchants showing glittering trinkets catch your eye, tempting you to spend
+some of your cash on their overpriced wares in order to get them to leave
+you alone.
+A large grey seagull perches here, ready to take flight.
+A huge, loud pelican stands here, eyeing the water for a fish to catch.
+
+99H 115V 12567X 9.60% 50C T:24 Exits:NES> s
+The End of the South Pier
+    Some of the seedier elements of the docks wander about in this area of
+the docks. The presence of the men of the Watch is much higher here than
+around the rest of the docks. As you look down the pier to the west, you
+catch a glimpse of a huge old sailing ship, which has absolutely no traffic
+going to and from it.
+A drunken sailor steadies himself as he tries to stagger back to his boat.
+A long grey rat crawls along the edges of the docks.
+
+99H 114V 12567X 9.60% 50C T:24 Exits:NSW> s
+Before These Crowded Streets
+    The fabled docks of the city of Port Balifor stretch to the north from
+this point. As people move back and forth around you, you decide that
+moving is probably safer than standing still in the middle of the great
+crowd. This mass of people prevents you from seeing the northern end of the
+docks, but it does not prevent you from taking in an awesome view of the
+Bay of Balifor to the west.
+A huge, loud pelican stands here, eyeing the water for a fish to catch.
+
+99H 113V 12567X 9.60% 50C T:23 Exits:NEW> w
+You need a boat to go there.
+
+99H 113V 12567X 9.60% 50C T:22 Exits:NEW> 
+
+A wharf rat crawls along from the north.
+
+99H 113V 12567X 9.60% 50C T:22 Exits:NEW> e
+Dock Road
+    Dock Road runs north and south here. It is bounded to the west by the
+ever growing docks of Port Balifor, temporary home to a large number of
+Krynn's finest trading vessels. To the east you see the bustling city of
+Port Balifor. Its tall buildings mar the beautiful skyline with their
+boxed, concealed rooftops.
+A feral cat parades her territory and sniffs your leg.
+A feral cat pounces on a piece of dirt.
+
+99H 112V 12567X 9.60% 50C T:21 Exits:NSW> w
+Before These Crowded Streets
+    The fabled docks of the city of Port Balifor stretch to the north from
+this point. As people move back and forth around you, you decide that
+moving is probably safer than standing still in the middle of the great
+crowd. This mass of people prevents you from seeing the northern end of the
+docks, but it does not prevent you from taking in an awesome view of the
+Bay of Balifor to the west.
+A long grey rat crawls along the edges of the docks.
+A huge, loud pelican stands here, eyeing the water for a fish to catch.
+
+99H 111V 12567X 9.60% 50C T:21 Exits:NEW> n
+The End of the South Pier
+    Some of the seedier elements of the docks wander about in this area of
+the docks. The presence of the men of the Watch is much higher here than
+around the rest of the docks. As you look down the pier to the west, you
+catch a glimpse of a huge old sailing ship, which has absolutely no traffic
+going to and from it.
+A drunken sailor steadies himself as he tries to stagger back to his boat.
+
+99H 110V 12567X 9.60% 50C T:20 Exits:NSW> w
+Along the South Pier
+    You stand on the South Pier gazing up at the galley Fair Maiden to the
+south. It rests in the water with an eerie calmness, as no one is boarding
+or departing. The south pier continues to the west here towards the vast
+Bay. As you ponder the fate of the Fair Maiden, your attention is drawn to
+a notice posted near the edge of the pier.
+Rae'Nil Tillinthis, famed elven hero, strolls here searching for a ship.
+A drunken sailor steadies himself as he tries to stagger back to his boat.
+A large grey seagull perches here, ready to take flight.
+A wealthy woman strolls along the docks here with her husband.
+An upper class citizen walks slowly here with his wife.
+A guard dressed in the uniform of the Customs Office stands here.
+A guard dressed in the uniform of the Customs Office stands here.
+
+99H 109V 12567X 9.60% 50C T:20 Exits:ESW> sa i found a boat
+You inform Rae'Nil of the presence of an available boat in the harbor. He
+thanks you and hands you a small pile of coins. He then leaves to board his
+ship.
+You receive 4500 experience.
+
+99H 109V 8067X 9.60% 50C T:15 Exits:ESW> g all
+You don't see what you are looking for here.
+
+99H 109V 8067X 9.60% 50C T:14 Exits:ESW> w
+Where the South Pier Meets the Bay
+    Standing here gives you a spectacular view of the Bay of Balifor and a
+great deal of its wonderous life. The Bay is also crowded with assorted
+sailing ships, both small and large. As you look farther and farther away
+to the west, the huge sailing vessels become nothing more than specks
+fading into the line where the sea meets the heavens.
+A drunken sailor steadies himself as he tries to stagger back to his boat.
+
+99H 108V 8067X 9.60% 50C T:13 Exits:EW> n
+Alas, you cannot go that way...
+
+99H 108V 8067X 9.60% 50C T:12 Exits:EW> w
+You need a boat to go there.
+
+99H 108V 8067X 9.60% 50C T:12 Exits:EW> e
+Along the South Pier
+    You stand on the South Pier gazing up at the galley Fair Maiden to the
+south. It rests in the water with an eerie calmness, as no one is boarding
+or departing. The south pier continues to the west here towards the vast
+Bay. As you ponder the fate of the Fair Maiden, your attention is drawn to
+a notice posted near the edge of the pier.
+A drunken sailor steadies himself as he tries to stagger back to his boat.
+A large grey seagull perches here, ready to take flight.
+A wealthy woman strolls along the docks here with her husband.
+An upper class citizen walks slowly here with his wife.
+A guard dressed in the uniform of the Customs Office stands here.
+A guard dressed in the uniform of the Customs Office stands here.
+
+99H 107V 8067X 9.60% 50C T:11 Exits:ESW> e
+The End of the South Pier
+    Some of the seedier elements of the docks wander about in this area of
+the docks. The presence of the men of the Watch is much higher here than
+around the rest of the docks. As you look down the pier to the west, you
+catch a glimpse of a huge old sailing ship, which has absolutely no traffic
+going to and from it.
+A drunken sailor steadies himself as he tries to stagger back to his boat.
+
+99H 106V 8067X 9.60% 50C T:11 Exits:NSW> e
+Alas, you cannot go that way...
+
+99H 106V 8067X 9.60% 50C T:10 Exits:NSW> n
+
+A wharf rat crawls along from the south.
+
+99H 106V 8067X 9.60% 50C T:10 Exits:NSW> 
+The Western Entrance to the City
+    All manner of people are crowding both into and away from the city
+here. The wonderfully varied races of Krynn are all well-represented here.
+Merchants showing glittering trinkets catch your eye, tempting you to spend
+some of your cash on their overpriced wares in order to get them to leave
+you alone.
+A large grey seagull perches here, ready to take flight.
+A large grey seagull perches here, ready to take flight.
+A huge, loud pelican stands here, eyeing the water for a fish to catch.
+
+99H 105V 8067X 9.60% 50C T:10 Exits:NES> 
+
+A dock guard of Port Balifor arrives from the north.
+
+99H 105V 8067X 9.60% 50C T:10 Exits:NES> e
+Dock Road and High Street
+    Dock Road and High Street meet here in a three way junction. As you
+observe the intersection, you note that there are numerous sailors
+staggering from the local bars to their ships at all times of day. You also
+notice traders conversing both with themselves and the local shopkeepers.
+They are buying and selling the wares that they use to make a living.
+A wandering preacher stands here, trying to convert the people to his faith.
+
+99H 104V 8067X 9.60% 50C T:9 Exits:NESW> e
+High Street
+    The street continues in an east-west direction. There is much more
+space here. There is no need to dive into the gutter when one of the many
+wooden barrows tries to push through the ever-increasing crowd. You keep a
+watchful eye on the kender nearby.
+A muscular watchman quietly patrols the streets of Port Balifor.
+
+99H 103V 8067X 9.60% 50C T:9 Exits:NESW> n
+Araela's Heavenly Aromas Galore
+    A sweet scent wafts under your nose as you enter the place of heavenly
+aromas. Shelved all along the walls are tiny vials and bottles filled with
+clear liquids. The smell is quite intoxicating, and it makes you dizzy
+momentarily. Araela seductively gestures for you to peruse through her
+wares, and you cannot help but feel the urge to do so.
+A heavily perfumed lady dressed in black silk is standing here.
+
+99H 102V 8067X 9.60% 50C T:8 Exits:S> s
+High Street
+    The street continues in an east-west direction. There is much more
+space here. There is no need to dive into the gutter when one of the many
+wooden barrows tries to push through the ever-increasing crowd. You keep a
+watchful eye on the kender nearby.
+A muscular watchman quietly patrols the streets of Port Balifor.
+
+99H 101V 8067X 9.60% 50C T:6 Exits:NESW> e
+High Street
+    The street continues in an east-west direction. There is much more
+space here. There is no need to dive into the gutter when one of the many
+wooden barrows tries to push through the ever-increasing crowd. You keep a
+watchful eye on the kenders nearby.
+A feral cat parades her territory and sniffs your leg.
+A feral cat purrs contentedly.
+
+99H 100V 8067X 9.60% 50C T:6 Exits:NESW> e
+High Street
+    You are on the main shopping street of Port Balifor. To the west you
+hear shouts as the shopkeepers make their living. Traders square lies to
+the east. From the north comes the heat of a furnace and the sound of
+clanging metal. Heavy steel shutters to the south are the main defense of
+the bank of Balifor.
+
+99H 99V 8067X 9.60% 50C T:6 Exits:NESW> e
+Traders Square
+    This is the centre and heart of Port Balifor. All around you tradesmen
+banter for your custom. Their many bright and varied goods hang from wooden
+stalls and mobile barrows. The smell of fresh produce fills the air,
+sea-salt sweet. The hustle and bustle of people coming and going distort
+your view of the many fine houses that occupy the streets that lead away
+from the centre in all directions. A sign stands in the centre of the
+cobbled square.
+
+99H 98V 8067X 9.60% 50C T:5 Exits:NESW> n
+Traders Street
+    The narrow trading street continues to the north, where it leads to the
+docks that provide the town with its revenue. The cry of seabirds is
+carried on the sea breeze, the occasional flash of white in the sky
+confirms this. The smells and sounds of many horses comes from the east,
+where some wooden stables have been built, while to the west is a
+warehouse.
+A black-robed priest of Hiddukel is here, trying to find his temple.
+
+99H 97V 8067X 9.60% 50C T:4 Exits:NESW> n
+Traders Street
+    The narrow trading street continues to the north, where it leads to the
+docks that provide the town with its revenue. The cry of seabirds is
+carried on the sea breeze. The occasional flash of white in the sky
+confirms the presence of gulls. To the west lies Guild Road, where
+adventurers of many guilds can find training in their arts.
+A muscular watchman quietly patrols the streets of Port Balifor.
+A drunken sailor steadies himself as he tries to stagger back to his boat.
+A feral cat parades her territory and sniffs your leg.
+
+99H 96V 8067X 9.60% 50C T:4 Exits:NSW> w
+Guild Road
+    The road leads both east and west, reaching the famed guild halls and
+also Traders Street. Many young guild members trudge miserably back to
+town, most of them ignoring the strange hut to the north.
+A mouse scampers about, scavenging for food and avoiding feral cats.
+
+99H 95V 8067X 9.60% 50C T:3 Exits:NEW> w
+Guild Road
+    The roads leads east and west between the buildings and halls. To the
+north is the warriors' arena, where sounds of clashing weapons can be
+heard. South of you, followers of Takhisis dressed in dark metal armor and
+wielding dangerous long swords train against one another. Sparks fly from
+bare metal in both directions.
+
+99H 94V 8067X 9.60% 50C T:3 Exits:NESW> w
+Guild Road
+    The road leads east and west between the buildings and halls. To the
+north is the scouts' guild, while to the south is a large hall occupied by
+druids.
+
+99H 93V 8067X 9.60% 50C T:3 Exits:NESW> w
+Guild Road
+    The road leads east and west between the buildings and halls. To the
+north is the mages' laboratory, while to the south is the clerics' sanctum.
+
+99H 92V 8067X 9.60% 50C T:2 Exits:NESW> n
+The Master Mages Laboratory
+    The laboratory is large and bright, quite unlike many others you have
+seen in your time. Two large stone tables occupy the centre of the room and
+carry literally hundreds of spell components. A large bookcase contains
+papers and notes on every magical subject.
+A magical sign floats in the air here...it glows dimly
+An orrery is mounted on a stand here.
+An attractive guild guard stands here, watching everyone warily.
+The master mage is standing here, making little balls of light dance around.
+. . . is cloaked with sparks of electricity.
+
+99H 91V 8067X 9.60% 50C T:2 Exits:S> s
+Guild Road
+    The road leads east and west between the buildings and halls. To the
+north is the mages' laboratory, while to the south is the clerics' sanctum.
+
+99H 90V 8067X 9.60% 50C T:1 Exits:NESW> e
+Guild Road
+    The road leads east and west between the buildings and halls. To the
+north is the scouts' guild, while to the south is a large hall occupied by
+druids.
+A young kender stands here, looking about curiously.
+
+99H 89V 8067X 9.60% 50C T:1 Exits:NESW> e
+Guild Road
+    The roads leads east and west between the buildings and halls. To the
+north is the warriors' arena, where sounds of clashing weapons can be
+heard. South of you, followers of Takhisis dressed in dark metal armor and
+wielding dangerous long swords train against one another. Sparks fly from
+bare metal in both directions.
+
+99H 113V 8067X 9.60% 50C T:60 Exits:NESW> n
+The Warrior's Arena
+    This large blood-stained arena is no place for the unskilled. Many
+budding warriors fight bitterly with blunt and wooden weapons, desperately
+trying to impress the master warrior, who is overseeing the fighting. He
+casually instructs young students in the art of defense and parrying.
+A dwarven guild guard stands here, staring ominously at everyone.
+The master warrior stands patiently here, flexing his sword-arm.
+
+99H 112V 8067X 9.60% 50C T:60 Exits:S> learn all
+Warning: your input 'all' ignored.
+Sorry, but you cannot do that here!
+
+99H 112V 8067X 9.60% 50C T:58 Exits:S> learn all
+Warning: your input 'all' ignored.
+Sorry, but you cannot do that here!
+
+99H 112V 8067X 9.60% 50C T:55 Exits:S> s
+Guild Road
+    The roads leads east and west between the buildings and halls. To the
+north is the warriors' arena, where sounds of clashing weapons can be
+heard. South of you, followers of Takhisis dressed in dark metal armor and
+wielding dangerous long swords train against one another. Sparks fly from
+bare metal in both directions.
+
+99H 111V 8067X 9.60% 50C T:54 Exits:NESW> w
+Guild Road
+    The road leads east and west between the buildings and halls. To the
+north is the scouts' guild, while to the south is a large hall occupied by
+druids.
+A young kender stands here, looking about curiously.
+
+99H 110V 8067X 9.60% 50C T:54 Exits:NESW> s
+The Druid's Hall
+    This hall is full of life. Vegetation has been allowed to grow in the
+corners and on the far walls. The area is teeming with life: some plant
+some animal. No attempt has been made to evict any of the hall's
+inhabitants, and several smug-looking rats casually play on the floor.
+A massive black panther is here, tail swishing from side to side.
+The master druid stands here, looking very somber.
+
+99H 109V 8067X 9.60% 50C T:53 Exits:N> learn all
+The master druid instructs you in the skill 'bludgeons'.
+
+99H 109V 8067X 9.60% 50C T:52 Exits:N> sk
+Your skills:
+
+Note: ** means the skill is ready for training with a guildmaster.
+
+ 1:  axes          (awful)             bludgeons     (bad)             
+     long blades   (awful)             miscellaneous (awful)           
+     piercers      (awful)             short blades  (awful)           
+
+     commune with nature (awful)           
+
+99H 109V 8067X 9.60% 50C T:51 Exits:N> c 'sus'
+You utter the words, 'sustenance'
+You feel satiated.
+
+99H 109V 8067X 9.60% 50C Mem:1 T:49 Exits:N> r
+You sit down and rest your tired bones.
+
+99H 109V 8067X 9.60% 50C Mem:1 T:44 Exits:N> 
+System Message: Replay recording has been stopped. File: C:/Users/pharrington/.
+config/mudlet/profiles/arcticmud/log/2026-01-28#10-48-03.dat
+Log session ending at 10:50:29 on Wednesday, 28 January 2026.

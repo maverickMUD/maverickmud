@@ -1,0 +1,1084 @@
+Log session starting at 11:57:23 on Wednesday, 28 January 2026.
+99H 97V 17235X 9.60% 50C T:17 Exits:NESW> 
+System Message: Replay recording has started. File: C:/Users/pharrington/.
+config/mudlet/profiles/arcticmud/log/2026-01-28#11-57-23.dat
+mayko
+Password: 
+
+
+You were last connected Wed Jan 28 16:01:11 2026 UTC from 12.50.29.98.
+
+
+Welcome to Arctic.
+
+Arctic is a heavily modified DIKU with the experienced player in mind.
+Our administration policy is not to interfere with mortal affairs.
+Please bear that in mind when asking immortals for assistance.
+
+--------------------------------------------------------------------------
+Arctic allows for each player to have two characters online at any time.
+Each character must have the same email address and hostname. Any attempts
+to circumvent this rule will be dealt with harshly.
+--------------------------------------------------------------------------
+
+        Check out the YouTube tutorial series for Arctic MUD:
+                  https://tinyurl.com/yc633tx3
+
+                       Join us on Discord!
+                   https://discord.gg/xCF6gh5
+
+
+*** Press Enter: 
+1
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+5) Reroll this character.
+
+1
+Make a choice: You ran up charges of 0 steel in rent.
+
+Welcome to the land of Krynn.
+
+The Pig and Whistle
+    A small brass bell sits on a rosewood table along with a guest book.
+There is no need to ring for attention, however; you are getting plenty of
+that already. A brass sign assures you of the quarters' legendary comfort.
+A pile of worn maps sits in the corner, free to adventurers.
+A beefy bouncer stands near the innkeeper, watching for trouble.
+Ed, the crotchety innkeeper, stands here.
+
+91H 120V 8067X 9.60% 50C T:15 Exits:D> l
+The Pig and Whistle
+    A small brass bell sits on a rosewood table along with a guest book.
+There is no need to ring for attention, however; you are getting plenty of
+that already. A brass sign assures you of the quarters' legendary comfort.
+A pile of worn maps sits in the corner, free to adventurers.
+A beefy bouncer stands near the innkeeper, watching for trouble.
+Ed, the crotchety innkeeper, stands here.
+
+91H 120V 8067X 9.60% 50C T:14 Exits:D> st
+You are already standing.
+
+91H 120V 8067X 9.60% 50C T:14 Exits:D> d
+The Pig and Whistle
+    You have entered the tavern of the Pig and Whistle. Unusually large, it
+has a full length oak bar against the far wall. Many bottles of spirits
+fill racks on the walls and beer kegs lay stacked and at the ready in the
+corner. Small stools and tables encrusted with grime invite you to sit and
+relax. A small staircase leads upwards to the sleeping quarters, and to the
+west is a meeting room.
+The Tavern owner, William Sweetwater, offers you a drink and a pie.
+
+91H 119V 8067X 9.60% 50C T:13 Exits:NWU> n
+The Tavern Square
+    Before you stands tavern square, a meeting place of many people and
+races. The cobbles have been freshly washed and there is an air of
+peacefulness about the drinkers wandering into the inn to the south. A dark
+alley leads to the north, a cobbled lane to the west. Death row and the
+executioners block lead to the east. Far to the west lies high street and
+the main shops of Balifor. A big painted sign swings from an iron clasp on
+the tavern wall.
+A mouse scampers about, scavenging for food and avoiding feral cats.
+A merchant has erected a portable counter in the middle of the street here.
+
+91H 118V 8067X 9.60% 50C T:13 Exits:NESW> li
+  1. Harpoon              77 a barbed harpoon head
+  2. Helm                137 a black morion helm
+  3. Hair                 60 a braided lock of werewolf hair
+  4. Bracelet            275 a braided silver bracelet
+  5. Band                 11 a broad Solamnic waistband
+  6. Rod                  27 a bronze rod
+  7. Claw                110 a claw blade
+  8. Helmet               88 a coral helmet
+  9. Cape                440 a crimson cape
+ 10. Warhammer           352 a double-headed rounded warhammer
+ 11. Staff               165 a druidic staff
+ 12. Headdress             7 a feathered headdress
+ 13. Hoopak               33 a feathered hoopak
+ 14. Bow                 132 a fine huntsman's longbow
+ 15. Greathelm           495 a gold-plated greathelm of fortification
+ 16. Robe                121 a grey witch's robe
+ 17. Headband            110 a headband adorned with eagle's feathers
+ 18. Kama                220 a kama and chain
+ 19. Pickaxe              88 a large copper pickaxe
+ 20. Bow                 330 a large dark-wood bow
+ 21. Knife                27 a large whittling knife
+
+ [return for more, q to stop]
+ 22. Medallion            22 a light medallion
+ 23. Whip                330 a long, barbed whip
+ 24. Faceguard           110 a lustrous faceguard of gore
+ 25. Medallion            93 a medallion of the earth
+ 26. Sword                27 a newly forged sword
+ 27. Boots               110 a pair of bearskin boots
+ 28. Gloves               99 a pair of black hunting gloves
+ 29. Leggings              6 a pair of cloth leggings
+ 30. Armbands             77 a pair of copper armbands
+ 31. Sandals             110 a pair of cord sandals
+ 32. Moccasins            28 a pair of leather moccasins
+ 33. Boots               330 a pair of shadow boots
+ 34. Sleeves             330 a pair of shadow sleeves
+ 35. Pants                88 a pair of worn snakeskin pants
+ 36. Loincloth             4 a plain loincloth
+ 37. Pelt                 66 a polar bear pelt
+ 38. Shield               44 a polished shield
+ 39. Pouch               110 a pouch of forest herbs
+ 40. Shield              440 a preserved green targe
+ 41. Vest                 22 a rawhide vest
+ 42. Baldric             374 a red baldric of prowess
+ 43. Ring                385 a ring of the panther
+
+ [return for more, q to stop]
+ 44. Shirt               660 a shirt of brass dragon scales
+ 45. Axe                  11 a small iron axe
+ 46. Medallion           110 a small silver medallion
+ 47. Fang                 66 a spider fang
+ 48. Robe                 82 a stained brown robe
+ 49. Armor               132 a suit of coral armor
+ 50. Jacket                5 a thin hide jacket
+ 51. Whip                198 a whip of braided kelp and shark teeth
+ 52. Robe                 99 a white witch's robe
+ 53. Pike                165 a wood-shafted pike
+ 54. Dagger              330 an inky black dagger
+ 55. Knife                55 an iron skinning knife
+ 56. Helm                165 an oaken-leaf helm
+ 57. Robes               165 some black clerical robes
+ 58. Gauntlets           440 some scratched gauntlets of gloom
+ 59. Legwraps            236 some weathered legwraps of Que-Shu
+ 60. Boots                88 thin-soled black boots
+
+91H 118V 8067X 9.60% 50C T:10 Exits:NESW> 
+
+91H 118V 8067X 9.60% 50C T:9 Exits:NESW> browse
+You browse through the merchandise and notice:
+a barbed harpoon head
+The harpoon's metallic surface is shiny and new. (100%)
+A barbed harpoon head is of poor quality.
+A barbed harpoon head requires knowledge of the skill 'short blades'.
+
+a black morion helm
+The helm's metallic surface is shiny and new. (99%)
+A black morion helm is wearable: head .
+
+a braided lock of werewolf hair
+The hair looks healthy. (100%)
+You feel informed:
+ Object 'hair lock werewolf black strands coarse'
+ Item Type: WORN        
+ Mat Class: natural      Material: organic
+ Weight   : 1            Value   : 55
+
+ Affects  : spell slots   by +1 at level 4
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+   Can use: Cleric
+
+ [return for more, q to stop]
+A braided lock of werewolf hair is wearable: finger .
+
+a braided silver bracelet
+The surface of the bracelet gleams brightly. (100%)
+You feel informed:
+ Object 'bracelet braided silver'
+ Item Type: WORN        
+ Mat Class: metal        Material: silver
+ Weight   : 2            Value   : 250
+
+ Affects  : regeneration by  5%
+ Item is  : GLOW MAGIC
+A braided silver bracelet is wearable: wrist .
+
+a broad Solamnic waistband
+The band appears oiled and in perfect condition. (100%)
+A broad Solamnic waistband is wearable: waist .
+
+a bronze rod
+The rod's metallic surface is bright and shiny. (100%)
+A bronze rod is of poor quality.
+A bronze rod requires knowledge of the skill 'bludgeons'.
+
+ [return for more, q to stop]
+
+a claw blade
+The claw's metallic surface is shiny and new. (100%)
+A claw blade is of good quality.
+A claw blade requires knowledge of the skill 'miscellaneous'.
+
+a coral helmet
+The helmet appears to be in perfect condition. (99%)
+A coral helmet is wearable: head .
+
+a crimson cape
+The cape appears to be brand new. (100%)
+A crimson cape is wearable: neck .
+
+a double-headed rounded warhammer
+The warhammer's metallic surface is shiny and new. (100%)
+A double-headed rounded warhammer is of very good quality.
+You feel informed:
+ Object 'warhammer double headed rounded hammer'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: iron
+ Weight   : 16           Value   : 320
+
+ [return for more, q to stop]
+
+ Affects  : DAMROLL       by 1
+ Affects  : HITROLL       by 2
+ Item is  : MAGIC
+ Class    : warhammer
+ Damage   : 2D8
+A double-headed rounded warhammer requires knowledge of the skill 'bludgeons'.
+
+a druidic staff
+The wooden surface of the staff is in perfect condition. (100%)
+A druidic staff is of poor quality.
+A druidic staff requires knowledge of the skill 'bludgeons'.
+
+a feathered headdress
+The headdress appears rough and in perfect condition. (99%)
+A feathered headdress is wearable: head .
+
+a feathered hoopak
+The wooden surface of the hoopak is in perfect condition. (100%)
+A feathered hoopak is of poor quality.
+A feathered hoopak requires knowledge of the skill 'bludgeons'.
+
+
+ [return for more, q to stop]
+a fine huntsman's longbow
+The wooden surface of the bow is in perfect condition. (100%)
+
+a gold-plated greathelm of fortification
+The greathelm's metallic surface shines brilliantly. (100%)
+You feel informed:
+ Object 'greathelm gold plated helm fortification'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: mithril
+ Weight   : 9            Value   : 450
+
+ Affects  : regeneration by  10%
+ Affects  : score criticals by 0.2%
+ Effects  : NOCHARM
+ Restricts: NOMAGE NOTHIEF NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+   Can use: Paladin
+ Apply    : 9
+A gold-plated greathelm of fortification is wearable: head .
+
+a grey witch's robe
+The robe appears to be brand new. (98%)
+
+ [return for more, q to stop]
+A grey witch's robe is wearable: about .
+
+a headband adorned with eagle's feathers
+The headband appears rough and in perfect condition. (100%)
+A headband adorned with eagle's feathers is wearable: head .
+
+a kama and chain
+The kama's metallic surface is shiny and new. (100%)
+A kama and chain is of poor quality.
+A kama and chain requires knowledge of the skill 'axes'.
+
+a large copper pickaxe
+The pickaxe's metallic surface is shiny and new. (100%)
+A large copper pickaxe is of poor quality.
+A large copper pickaxe requires knowledge of the skill 'axes'.
+
+a large dark-wood bow
+The wooden surface of the bow is in perfect condition. (100%)
+
+a large whittling knife
+The knife's metallic surface is shiny and new. (100%)
+A large whittling knife requires knowledge of the skill 'short blades'.
+
+ [return for more, q to stop]
+
+a light medallion
+The stone surface of the medallion is flawless. (100%)
+A light medallion has at least a day of light left.
+
+a long, barbed whip
+The whip appears rough and in perfect condition. (98%)
+A long, barbed whip is of excellent quality.
+You feel informed:
+ Object 'whip long barbed'
+ Item Type: WEAPON      
+ Mat Class: leather      Material: rough_leather
+ Weight   : 11           Value   : 300
+
+ Affects  : DAMROLL       by 2
+ Affects  : HITROLL       by -1
+ Restricts: NOMAGE NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+   Can use: Thief
+ Class    : whip
+ Damage   : 3D5
+This whip is hard to control, but well worth the effort.A long, barbed whip requires knowledge of
+the skill 'miscellaneous'.
+
+a lustrous faceguard of gore
+The faceguard's metallic surface is bright and shiny. (100%)
+
+ [return for more, q to stop]
+You feel informed:
+ Object 'faceguard lustrous guard gore'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: bronze
+ Weight   : 9            Value   : 100
+
+ Affects  : HP_REGEN      by 2
+ Affects  : ARMOR         by -3
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NODARK_KNIGHT NOBARBARIAN
+NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+   Can use: Warrior
+ Apply    : 3
+A lustrous faceguard of gore is wearable: head .
+
+a medallion of the earth
+The medallion appears to be in perfect condition. (99%)
+A medallion of the earth is wearable: neck .
+
+a newly forged sword
+The sword's metallic surface is shiny and new. (100%)
+A newly forged sword is of poor quality.
+A newly forged sword requires knowledge of the skill 'long blades'.
+
+ [return for more, q to stop]
+
+a pair of bearskin boots
+The boots looks healthy. (100%)
+A pair of bearskin boots is wearable: feet .
+
+a pair of black hunting gloves
+The gloves appears to be brand new. (100%)
+A pair of black hunting gloves is wearable: hands .
+
+a pair of cloth leggings
+The leggings appears to be brand new. (100%)
+A pair of cloth leggings is wearable: legs .
+
+a pair of copper armbands
+The armbands's metallic surface is shiny and new. (99%)
+A pair of copper armbands is wearable: arms .
+
+a pair of cord sandals
+The sandals appears rough and in perfect condition. (100%)
+A pair of cord sandals is wearable: feet .
+
+a pair of leather moccasins
+
+ [return for more, q to stop]
+The moccasins appears rough and in perfect condition. (100%)
+A pair of leather moccasins is wearable: feet .
+
+a pair of shadow boots
+The boots appears very tough and in perfect condition. (99%)
+A pair of shadow boots is wearable: feet .
+
+a pair of shadow sleeves
+The sleeves appears to be brand new. (99%)
+A pair of shadow sleeves is wearable: arms .
+
+a pair of worn snakeskin pants
+The pants appears rough and in perfect condition. (100%)
+A pair of worn snakeskin pants is wearable: legs .
+
+a plain loincloth
+The loincloth appears rough and in perfect condition. (100%)
+A plain loincloth is wearable: waist .
+
+a polar bear pelt
+The pelt looks healthy. (100%)
+A polar bear pelt is wearable: body .
+
+ [return for more, q to stop]
+
+a polished shield
+The shield's metallic surface is bright and shiny. (100%)
+A polished shield is of average quality.
+A polished shield is wearable: shield .
+
+a pouch of forest herbs
+The pouch appears rough and in perfect condition. (100%)
+pouch (here) : 
+
+a preserved green targe
+The shield appears to be in perfect condition. (100%)
+A preserved green targe is of very good quality.
+You feel informed:
+ Object 'shield preserved green targe'
+ Item Type: WORN        
+ Mat Class: natural      Material: ice
+ Weight   : 9            Value   : 400
+
+ Affects  : HEALTH        by 7
+ Affects  : HP_REGEN      by 1
+ Restricts: NOTHIEF NOPALADIN NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+
+ [return for more, q to stop]
+A preserved green targe is wearable: shield .
+
+a rawhide vest
+The vest appears rough and in perfect condition. (100%)
+A rawhide vest is wearable: body .
+
+a red baldric of prowess
+The baldric's scaly surface is in fine shape. (100%)
+You feel informed:
+ Object 'baldric red prowess'
+ Item Type: WORN        
+ Mat Class: scale        Material: lizard_scale
+ Weight   : 7            Value   : 340
+
+ Affects  : HP_REGEN      by 3
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NODARK_KNIGHT NOBARBARIAN
+NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+   Can use: Warrior
+A red baldric of prowess is wearable: about .
+
+a ring of the panther
+The ring's metallic surface is shiny and new. (100%)
+
+ [return for more, q to stop]
+A ring of the panther is wearable: finger .
+
+a shirt of brass dragon scales
+The shirt's scaly surface is in fine shape. (96%)
+You feel informed:
+ Object 'shirt brass dragon scale'
+ Item Type: ARMOR       
+ Mat Class: scale        Material: dragonscale
+ Weight   : 22           Value   : 600
+
+ Affects  : ARMOR         by -10
+ Affects  : CON           by 1
+ Item is  : MAGIC ANTI_EVIL
+ Immune   : IMMUNE_HEAT
+ Apply    : 10
+ This object is part of a larger set.
+A shirt of brass dragon scales is wearable: body .
+
+a small iron axe
+The axe's metallic surface is shiny and new. (100%)
+A small iron axe is of poor quality.
+A small iron axe requires knowledge of the skill 'axes'.
+
+ [return for more, q to stop]
+
+a small silver medallion
+The surface of the medallion gleams brightly. (100%)
+
+a spider fang
+The fang looks healthy. (100%)
+A spider fang is of poor quality.
+A spider fang requires knowledge of the skill 'short blades'.
+
+a stained brown robe
+The robe appears to be brand new. (100%)
+A stained brown robe is wearable: about .
+
+a suit of coral armor
+The armor appears to be in perfect condition. (99%)
+A suit of coral armor is wearable: body .
+
+a thin hide jacket
+The jacket appears rough and in perfect condition. (100%)
+A thin hide jacket is wearable: body .
+
+a whip of braided kelp and shark teeth
+
+ [return for more, q to stop]
+The whip looks healthy. (100%)
+A whip of braided kelp and shark teeth is of good quality.
+A whip of braided kelp and shark teeth requires knowledge of the skill 'miscellaneous'.
+
+a white witch's robe
+The robe appears to be brand new. (100%)
+A white witch's robe is wearable: about .
+
+a wood-shafted pike
+The hard wooden surface of the pike is in perfect condition. (100%)
+A wood-shafted pike is of poor quality.
+A wood-shafted pike requires knowledge of the skill 'pole arms'.
+
+an inky black dagger
+The dagger's metallic surface is shiny and new. (99%)
+An inky black dagger is of good quality.
+An inky black dagger requires knowledge of the skill 'short blades'.
+
+an iron skinning knife
+The knife's metallic surface is shiny and new. (100%)
+An iron skinning knife is of poor quality.
+
+ [return for more, q to stop]
+An iron skinning knife requires knowledge of the skill 'short blades'.
+
+an oaken-leaf helm
+The helm looks healthy. (99%)
+An oaken-leaf helm is wearable: head .
+
+some black clerical robes
+The robes appears to be brand new. (100%)
+Some black clerical robes is wearable: about .
+
+some scratched gauntlets of gloom
+The gauntlets's metallic surface is shiny and new. (100%)
+Some scratched gauntlets of gloom is wearable: hands .
+
+some weathered legwraps of Que-Shu
+The legwraps is stiff and in perfect condition. (100%)
+You feel informed:
+ Object 'legwraps weathered wraps que-shu'
+ Item Type: ARMOR       
+ Mat Class: leather      Material: hard_leather
+ Weight   : 8            Value   : 215
+
+
+ [return for more, q to stop]
+
+ Affects  : MOVE_REGEN    by 4
+ Affects  : regeneration by  3%
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBLACK_ROBE
+NORED_ROBE NOWHITE_ROBE NOSHAMAN
+   Can use: Barbarian
+ Apply    : 3
+Some weathered legwraps of Que-Shu is wearable: legs .
+
+thin-soled black boots
+The boots appears rough and in perfect condition. (100%)
+Thin-soled black boots is wearable: feet .
+
+91H 118V 8067X 9.60% 50C T:2 Exits:NESW> 
+
+91H 118V 8067X 9.60% 50C T:2 Exits:NESW> 
+
+91H 118V 8067X 9.60% 50C T:1 Exits:NESW> 
+
+A mouse leaves west.
+
+91H 118V 8067X 9.60% 50C T:1 Exits:NESW> exa rod
+You are hungry.
+You are thirsty.
+You do not see that here.
+
+98H 124V 8067X 9.60% 50C T:60 Exits:NESW> c 'sus'
+You utter the words, 'sustenance'
+You are no longer hungry or thirsty.
+You feel satiated.
+
+98H 124V 8067X 9.60% 50C Mem:1 T:58 Exits:NESW> spel
+
+A mouse arrives from the west.
+
+98H 124V 8067X 9.60% 50C Mem:1 T:55 Exits:NESW> 
+Your spells
+-----------
+1:  barkskin               burning hands          create wine          
+    cure light             faerie fire            faerie fog           
+    sense life             summon faerie          sustenance           
+    thorn spray          
+2:  clear skies            constant winds         elemental fist       
+    refresh                remove poison          silence              
+    stinking cloud         storm call             water breath         
+
+98H 124V 8067X 9.60% 50C Mem:1 T:53 Exits:NESW> mem
+Spells currently memorized:
+1: [ 1]barkskin             [ 4]burning hands        [ 1]cure light          
+2: [ 4]elemental fist       [ 2]refresh             
+
+Spells being memorized:
+1: [ 1]cure light          
+
+You estimate your studies will complete in 1 (game) hour.
+
+Spells left (level-number): 1-0 2-0
+
+98H 124V 8067X 9.60% 50C Mem:1 T:52 Exits:NESW> 
+
+A mouse leaves west.
+
+98H 124V 8067X 9.60% 50C Mem:1 T:43 Exits:NESW> 
+
+A priest of Hiddukel arrives from the west.
+
+98H 124V 8067X 9.60% 50C Mem:1 T:31 Exits:NESW> 
+
+A drunken sailor arrives from the east.
+
+98H 124V 8067X 9.60% 50C Mem:1 T:25 Exits:NESW> 
+
+A mouse arrives from the west.
+
+98H 124V 8067X 9.60% 50C Mem:1 T:7 Exits:NESW> 
+
+A priest of Hiddukel leaves north.
+
+98H 124V 8067X 9.60% 50C Mem:1 T:1 Exits:NESW> 
+
+Your studies complete, you put away your tablets with a smile.
+
+99H 131V 8067X 9.60% 50C T:60 Exits:NESW> 
+
+A drunken sailor leaves west.
+
+99H 131V 8067X 9.60% 50C T:49 Exits:NESW> 
+
+A mouse leaves north.
+
+99H 131V 8067X 9.60% 50C T:37 Exits:NESW> 
+
+A priest of Hiddukel arrives from the north.
+
+99H 131V 8067X 9.60% 50C T:25 Exits:NESW> 
+
+Collin arrives from the west.
+
+99H 131V 8067X 9.60% 50C T:24 Exits:NESW> 
+
+Collin sells a jarak-sinn scaled sash of the stars.
+
+99H 131V 8067X 9.60% 50C T:23 Exits:NESW> 
+
+Collin sells an amethyst ring.
+
+99H 131V 8067X 9.60% 50C T:19 Exits:NESW> 
+
+Collin leaves south.
+
+99H 131V 8067X 9.60% 50C T:14 Exits:NESW> 
+
+A mouse arrives from the north.
+A priest of Hiddukel leaves east.
+
+99H 131V 8067X 9.60% 50C T:13 Exits:NESW> 
+
+Collin arrives from the south.
+
+99H 131V 8067X 9.60% 50C T:13 Exits:NESW> 
+
+Collin leaves west.
+
+99H 131V 8067X 9.60% 50C T:13 Exits:NESW> 
+
+The rising sun barely lights the dark and cloudy sky.
+
+99H 131V 8067X 9.60% 50C T:60 Exits:NESW> spel
+Your spells
+-----------
+1:  barkskin               burning hands          create wine          
+    cure light             faerie fire            faerie fog           
+    sense life             summon faerie          sustenance           
+    thorn spray          
+2:  clear skies            constant winds         elemental fist       
+    refresh                remove poison          silence              
+    stinking cloud         storm call             water breath         
+
+99H 131V 8067X 9.60% 50C T:55 Exits:NESW> help spell bark
+Spell    : Barkskin
+Sphere   : Plant
+Usage    : cast 'barkskin' [char in room]
+Duration : 1 day+
+Effects  : Forms a protective bark
+
+When cast, the victims skin turns into a protective bark, improving armor
+class and consequently making those affected harder to hit.  The barkskin
+improves magical resistance to forms of attack based on heat, cold,
+electricity, acid and disintegration.
+
+Details:
+- Defensive spell which provides a bonus to ARMOR, as well as RESIST_HEAT,
+  RESIST_COLD, RESIST_ACID, RESIST_ELECTRICITY and RESIST_DISINTEGRATION.
+
+99H 131V 8067X 9.60% 50C T:52 Exits:NESW> help spell b h
+Spell    : Burning Hands
+Sphere   : Alteration
+Usage    : cast 'burning hands' [opponent]
+Duration : Instantaneous
+Damage   : Nominal to critical
+
+The caster causes bursts of flame to shoot from his/her fingertips,
+directed at the intended victim and causing fire damage.
+
+Details:
+- Offensive spell which deals fire damage to a victim.
+
+99H 131V 8067X 9.60% 50C T:46 Exits:NESW> help spell c w
+Spell    : Constant Winds
+Sphere   : Weather
+Usage    : cast 'constant winds'
+Duration : Variable
+
+This spell creates a strong wind that travels away from the caster's
+location in all directions, enveloping the area.  This wind is strong
+enough to remove clouds and various gaseous vapors.
+
+Details:
+- Utility spell which will dissipate cloud-based spells such as: faerie
+  fog, cloud kill, stinking cloud, insect swarm, acid mist, and healing mist.
+- Does not work underwater.
+
+99H 131V 8067X 9.60% 50C T:44 Exits:NESW> help spell l s
+Spell    : Lightning Shield
+Sphere   : Evocation
+Usage    : cast 'lightning shield' [caster only]
+Duration : 1+(level+2/3) hours
+Effects  : Forms a wall of electricity around caster
+
+This spell can only be used upon yourself.  When cast, the victim is
+surrounded by a shield of electricity.  These sparks will not damage the
+caster in any way - any enemy engaged in combat with the caster so affected
+will take damage from the shield each time its hits.  The shield reflects
+back on the attacker any melee damage you suffer.  The lighting shield also
+increases resistance to some other forms of magical attack.
+
+Details:
+- Defensive spell which grants LIGHTNING_SHIELD and a bonus to
+  RESIST_ELECTRICITY.
+
+Component Casting:
+--Increased duration.
+--Increased resistance.
+
+99H 131V 8067X 9.60% 50C T:41 Exits:NESW> help spell l st
+Spell    : Lightning Storm
+Sphere   : Weather
+Usage    : cast 'lightning storm'
+Duration : Instantaneous
+Damage   : Critical to massive
+
+The caster invokes an artificial lightning storm, showering the area
+with bolts of lightning, causing critical to massive damage to
+everything in the room.
+
+Given favorable weather conditions, the storm will do more increased
+damage.
+
+Details:
+- Offensive spell which causes electricity damage to those not grouped
+  with the caster.
+- If raining or outdoors, damage is increased.
+
+99H 131V 8067X 9.60% 50C T:39 Exits:NESW> help spell bark
+Spell    : Barkskin
+Sphere   : Plant
+Usage    : cast 'barkskin' [char in room]
+Duration : 1 day+
+Effects  : Forms a protective bark
+
+When cast, the victims skin turns into a protective bark, improving armor
+class and consequently making those affected harder to hit.  The barkskin
+improves magical resistance to forms of attack based on heat, cold,
+electricity, acid and disintegration.
+
+Details:
+- Defensive spell which provides a bonus to ARMOR, as well as RESIST_HEAT,
+  RESIST_COLD, RESIST_ACID, RESIST_ELECTRICITY and RESIST_DISINTEGRATION.
+
+99H 131V 8067X 9.60% 50C T:33 Exits:NESW> help spell fire
+Spell    : Fire Storm
+Sphere   : Elemental
+Usage    : cast 'fire storm' [opponent]
+Duration : Instantaneous
+Damage   : Massive damage
+
+This is a powerful offensive spell. The caster creates a storm of flames to
+burn the victim, causing massive damage.
+
+Details:
+- Offensive spell which deals fire damage to a single target.
+
+99H 131V 8067X 9.60% 50C T:31 Exits:NESW> help spell flame
+Spell    : Flame Shroud
+Sphere   : Elemental
+Usage    : cast 'flame shroud' [opponent]
+Damage   : Nominal to massive
+
+The caster calls forth magical fire to enshroud the opponent.  The flames
+cover the victim, burning their clothes and items and searing the flesh
+from their bones.
+
+Details:
+- Offensive spell which deals fire damage to a single target.
+
+99H 131V 8067X 9.60% 50C T:27 Exits:NESW> help spell para
+Spell    : Paralysis
+Sphere   : Enchantment
+Usage    : cast 'paralysis' [opponent]
+Duration : 1 + level/8 hours/combat rounds
+Effects  : Victim becomes paralyzed
+
+The victim makes a save against paralysis - failing means the victim is
+disabled for (level/8) hours.  No movement is possible, however, unlike
+some other spells communication is still possible.  Note that spell casting
+will not be possible since manipulation of hands is essential to magic users.
+The effect of the spell is in hours, unless the victim is in combat, in which
+case the spell duration is in combat rounds.
+(Note: The behavior on players is somewhat different.)
+
+Details:
+- Offensive spell which may paralyze the target, rendering them
+  incapacitated.
+- Also negatively affects the target's ARMOR.
+
+99H 131V 8067X 9.60% 50C T:23 Exits:NESW> help flags
+Below is a list of the various flags, effects and such which may be found on
+items when divining information about them via the various in-game methods of
+identify, legend lore, and such.
+
+Most of the flags detailed below pertain to items, though many apply an 
+identical effect to players when f.e. purchasing a rank granting the flag in 
+question or when an item applies the effect to the player.  Special care should
+be taken by players regarding flags on items in the "Effects" line when lored or
+identified; these items will apply any listed flags to the wearer/wielder only 
+when actually equipped.
+
+ACID_SHIELD     - Applies the effects of the spell vitriolic shield.
+ANTI_CHAOTIC    - Cannot be used or even picked up by chaotic-aligned entities.
+ANTI_GOOD       - Cannot be used or even picked up by good-aligned entities.
+ANTI_LAWFUL     - Cannot be used or even picked up by lawfully-aligned entities.
+ANTI_NEUTRAL    - Cannot be used or even picked up by neutral-aligned entities.
+ANTI_EVIL       - Cannot be used or even picked up by evil-aligned entities.
+APPLY           - Increases the chance and amount of damage absorbed by a piece
+                  of armor.
+ARMOR           - Modifies the chance of being hit by an attack.  Negative
+
+ [return for more, q to stop]
+                  values reduce the chance, while positives increase it.
+ARMOR_PIERCING  - Will ignore opponents' armor in melee combat.
+AURA            - Applies the effects to both the user and their group members
+                  in the same room.
+ATTUNABLE       - Item can be attuned (see help attunement).
+AWARENESS       - Allows the ability to detect sneaking and hidden entities.
+BACKSTAB_MOD    - Modifies damage done by backstab, positive is better.
+BACKSTAB_PROTECTION
+                - Modifies damage received by backstab, positive is better.
+BASH_MOD        - Alters the chance of being successfully bashed: negative 
+                  reduces chance, positive increases chance.
+BLESS           - Item is blessed.  Immune to rot and curse spells as well
+                  as improved resistance to magic (help spell bless).
+BLIND           - Applies the effects of the spell blindness.
+BLACK_MANTLE    - Reduces regeneration and healing to 50% of normal.
+CAN_FLY         - Allows flying using 'fly' and 'fly stop'.
+COLD            - Cannot be seen by infravision.
+CON             - Increases CON.
+CONCENTRATION_FACTOR
+                - Decreases the chance of being disrupted or losing 
+                  concentration while casting.
+CONFUSION       - Applies the effects of the spell confusion.
+
+ [return for more, q to stop]
+CRITICAL_DAMAGE_FACTOR
+                - Increases the damage dealth by your criticals.
+CRITICAL_RESIST - Decreases the chances of being critically hit.
+CRITICAL_SCORE  - Increases the chances of landing a critical hit.
+CURSED          - Item cannot be dropped or removed if worn/wielded without
+                  remove curse being cast on the owner.
+DAMAGE_FACTOR   - Increases damage done by X percent.
+DAMROLL         - Increases damage dealt with melee attacks, bows, and many 
+                  combat skills.
+DARK            - Item will be "dark" and adjust room light accordingly.
+DARKNESS        - Creates darkness in a room.
+DETECT_ASTRAL   - Allows one to detect astral objects or entities.
+DETECT_EVIL     - Allows one to detect evil objects or entities.
+DETECT_GOOD     - Allows one to detect good objects or entities.
+DETECT_HOLY     - Allows one to detect holy objects or entities.
+DETECT_INVISIBLE- Allows one to see invisible items and entities.
+DETECT_MAGIC    - Allows one to discern if an object is magical at a glance.
+DETECT_POISON   - Allows one to detect the existence of poison.
+DETECT_SCRY     - Applies the effects of the spell detect scry.
+DETECT_UNDEAD   - Allows one to detect undead.
+DEX             - Increases DEX.
+DISEASE         - Causes disease with hand or claw type attacks.
+
+ [return for more, q to stop]
+DODGE_CHANCE    - Increases the chance to dodge melee attacks.
+EVIL            - Item will glow red to those affected by detect evil.
+EXTRA_ATTACK    - Grants an extra melee attack.
+EXTRA_ATTACK_CHANCE
+                - Increases the chance of an extra melee attack.
+FEATHERFALL     - Negates falling damage
+FEEBLEMIND      - Applies the effects of the spell feeblemind.
+FIRESHIELD      - Applies the effects of the spell fireshield.
+FLEE_CHANCE     - Modifies the chance of the target fleeing.
+FREE_ACTION     - Grants immunity to hold and paralyzation-type effects.
+FUMBLE_CHANCE   - Modifies the chance of fumbling a melee attack.  Negative
+                  values increase it, while positives reduce it.
+GLOW            - Item will glow and can be seen on invisible or hidden 
+                  entities.
+GLARE           - Causes one to be affected by glare (basically blindness).
+HASTE           - Causes one to be hasted (extra attack per round, faster 
+                  command speed).
+HEALING_BONUS   - Increases healing done.
+HEALING_FACTOR  - Increases healing received.
+HEALTH          - Increases health regeneration and recovery from poison.
+HIDE            - Causes one to be hidden, as per the hide skill.
+HIT             - Increases hit points.
+
+ [return for more, q to stop]
+HITROLL         - Increases chance of successfully landing a melee attack.
+HOLD_AGGRO_CHANCE
+                - Prevents foes from switching away in combat.
+HOLD_PERSON     - Applies the effects of the spell hold person.
+HP_REGEN        - Increases the speed at which hit point regenerate.
+HOLY            - Causes extreme faith loss or gain when falling victim to
+                  opposite base alignments.
+HOT             - Item can be seen in the dark by those with infravision.
+HUM             - Item will hum and impair the ability to sneak and hide.
+ICESHIELD       - Applies the effects of the spell iceshield.
+ICESKIN         - Applies the effects of the spell iceskin.
+IGNORE_HASTE    - Skills that cause lag will ignore targets' HASTE flag.
+IMMUNE_ACID     - Grants immunity to acid attacks.
+IMMUNE_BLEEDING - Grants immunity to bleeding.
+IMMUNE_BLIND    - Grants immunity to blindness and most similar effects.
+IMMUNE_COLD     - Grants immunity to cold attacks.
+IMMUNE_CRITICALS
+                - Grants immunity to critical hits.
+IMMUNE_CURSE    - Grants immunity to curse spells.
+IMMUNE_DISEASE  - Grants immunity to disease effects.
+IMMUNE_DISINTEGRATION
+                - Grants immunity to disintegration attacks.
+
+ [return for more, q to stop]
+IMMUNE_DISARM   - Grants immunity to being disarmed.
+IMMUNE_ELECTRICITY
+                - Grants immunity to electrical attacks.
+IMMUNE_FEAR     - Grants immunity to fear and most similar spells.
+IMMUNE_GAS      - Grants immunity to gas attacks.
+IMMUNE_HEAT     - Grants immunity to heat attacks.
+IMMUNE_MAGIC    - Grants immunity to magical attacks.
+IMMUNE_NEGATIVE_ENERGY
+                - Grants immunity to negative energy attacks.
+IMMUNE_POISON   - Grants immunity to poisonous attacks.
+IMMUNE_SILENCE  - Grants immunity to spells which afflict silence.
+IMMUNE_SLEEP    - Grants immunity to sleep attacks.
+IMMUNE_VORPAL   - Grants immunity to vorpal weapon attacks.
+IMPROVED INVISIBILITY
+                - Protects a user's INVISIBLE affects in combat.
+IMPUNITY        - Protects a user's soul from extreme faith loss against HOLY
+                  flagged victim punishment of the same alignment.
+INFRAVISION     - Applies the effects of the spell infravision.
+INT             - Increases INT.
+INVISIBLE       - Applies the effects of the spell invisibility.
+IS_FLYING       - Causes one to fly (cannot stop flying using 'fly stop')
+LEARN           - Increases the chance of successfully learning skills and 
+
+ [return for more, q to stop]
+                  spells.
+LIGHT           - Creates light in the room when worn or held.
+LIGHTNING_SHIELD
+                - Applies the effects of the spell lightning shield.
+LIMIT_DAMAGE    - Applies a flat reduction to incoming damage of all types.
+LIMIT_DAMAGE_FACTOR
+                - Applies a percent-based modification to incoming damage of
+                  all types. Negative values decrease incoming damage.
+MAGIC           - Item is magical and cannot be enchanted.
+MEM_FACTOR      - Increases the speed of spell memorization.
+MENTAL_ACUITY_CHANCE
+                - Allows a chance of 'free' spell casts, where spells are not 
+                  forgotten when cast.
+MENTAL_ACUITY_FACTOR
+                - Increases the chance of 'free' casts if already affected by 
+                  MENTAL_ACUITY_CHANCE.
+MINDSHIELD      - Grants immunity to feeblemind and confusion spells or effects.
+MINOR_LIMIT_DAMAGE
+                - Applies a minor reduction to incoming damage of all types.
+MOVES           - Applies additional movement points to the user.
+NIGHTVISION     - Applies the effects of the spell nightvision.
+
+ [return for more, q to stop]
+NO_OFFHAND      - Prevents dealing damage with an offhand weapon.
+NOBASH          - Prevents one from being bashed.
+NOCHARM         - Grants immunity to charm spells.
+NOCLERIC        - Clerics cannot use this item.
+NODROP          - Item cannot be dropped, even if remove curse is cast.
+NODRUID         - Druids cannot use this item.
+NOFALL          - Item will not fall down FALLING rooms.
+NOMAGE          - Mages cannot use this item.
+NOPALADIN       - Paladins cannot use this item.
+NORANGER        - Rangers and Scouts cannot use this item.
+NORENT          - Item cannot be rented.
+NOSUMMON        - Prevents player from being summoned.
+NOTHIEF         - Thieves cannot use this item.
+NOWARRIOR       - Warriors cannot use this item.
+PARALYSIS       - Applies the effects of the spell paralyze.
+PETS_LIMIT      - Grants an increase to the maximum number of pets.
+PHYSICAL_DAMAGE_REDUCTION
+                - Applies a reduction to incoming non-magical damage.
+POISON          - Applies the effects of the spell poison.
+PROTECT_EVIL    - Grants protection from evil creatures.
+PROTECT_GOOD    - Grants protection from good creatures.
+PROTECT_NEUTRAL - Grants protection from neutral creatures.
+
+ [return for more, q to stop]
+PROTECT_UNDEAD  - Grants protection from undead creatures.
+RANGED_DAMROLL  - Applies an increase to damage when using bows.
+RANGED_HITROLL  - Applies an increase to hit chance when using bows.
+RECUPERATE      - Allows hit and movement points to recover faster.
+REGEN_FACTOR    - Increases the rengeneration speed of hit and movement points.
+RESIST_ACID     - Reduces damage from acid attacks.
+RESIST_BREATH   - Reduces damage from breath attacks.
+RESIST_COLD     - Reduces damage from cold attacks.
+RESIST_DISINTEGRATION
+                - Reduces damage from disintegration attacks.
+RESIST_ELECTRICITY
+                - Reduces damage from electricity attacks.
+RESIST_GAS      - Reduces damage from gas attacks.
+RESIST_HEAT     - Reduces damage from heat attacks.
+RESIST_MAGIC    - Reduces damage from magic attacks.
+RESIST_NEGATIVE_ENERGY
+                - Reduces damage from negative energy attacks.
+SANCTUARY       - Applies the effects of the spell sanctuary.
+SAVING_BREATH   - Increases saving throw against breath attacks.
+SAVING_PARA     - Increases saving throw against paralysis attacks.
+SAVING_PETRI    - Increases saving throw against petrification attacks.
+SAVING_SPELL    - Increases saving throw against spells in general.
+
+ [return for more, q to stop]
+SENSE_LIFE      - Applies the effects of the spell sense life.
+SELF_DESTRUCT   - Used mainly on wands and staves, the item will remove
+                  itself when the charges reach zero.
+SET_ITEM        - This flag indicates that an item is part of a set.
+SHIELD          - Applies the effects of the spell shield.
+SILENCE         - Applies the effects of the spell silence.
+SLEEP           - Applies the effects of the spell sleep.
+SLEEP_AWARENESS - The player will automatically awaken when anyone enters
+                  the room they are sleeping in.
+SNEAK           - Player will sneak (if not wearing any type of armor that
+                  negates sneak, so be careful when choosing a material).
+SPELL CRITICAL  - Increases chance of critical attacks with spells.
+SPELL_DAMAGE_FACTOR
+                - Increases damage caused by spell attacks by X percent.
+SPELL_LEVEL_MOD - Increases the effective casting level.
+SPELL_PENETRATION
+                - Positive SPELL_PENETRATION negates resistance bonuses
+                  that the victim of spells may have.
+SPELL_SAVES_MOD - Alters target's saving throws against spells, positive 
+                  reduces the target chance to save.
+STEELSKIN       - Applies the effects of the spell steelskin.
+STONE_SKIN      - Applies the effects of the spell stoneskin.
+
+ [return for more, q to stop]
+STR             - Increases STR.
+STRENGTH        - Applies the effects of the spell strength.
+STUMBLE_CHANCE  - Increases the chance of stumbling.
+SUSTENANCE      - Prevents hunger and thirst.
+TRUE_SEEING     - Allows the player to see through magical enchantments such as 
+                  invisibility, blur, mirror images, etc.
+UNIQUE          - Prevents a player from wearing multiples of this specific
+                  type of item.
+WATERBREATH     - Applies the effects of the spell waterbreath.
+WEB             - Affected entities are unable to take action.
+WIS             - Increases WIS.
+
+99H 131V 8067X 9.60% 50C T:14 Exits:NESW> 
+
+99H 131V 8067X 9.60% 50C T:13 Exits:NESW> 
+System Message: Replay recording has been stopped. File: C:/Users/pharrington/.
+config/mudlet/profiles/arcticmud/log/2026-01-28#11-57-23.dat
+Log session ending at 12:00:37 on Wednesday, 28 January 2026.
